@@ -1,5 +1,5 @@
 # Universidad Peruana de Ciencias Aplicadas
-![UPC](assets/UPC_logo_transparente.png)
+![UPC](../assets/UPC_logo_transparente.png)
 ## Ingeniería de Sistemas y Computación | Ingeniería de Software
 
 ### APLICACIONES OPEN SOURCE
