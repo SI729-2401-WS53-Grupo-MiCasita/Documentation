@@ -279,9 +279,9 @@ En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente e
 
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
-| LandingPage (Anexo A)    | https://homeheavenly.github.io/MiCasita-documentation/|
+| LandingPage (Anexo A)    | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation |
 | Diagramas de clases (Anexo B)   | https://lucid.app/documents/view/c7d290c1-6d5f-4e26-b73e-cfdbba38c57a     |
 | Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/wrl6YNg5OsGyeUKD2zrofTFNGwBj0sOF   |
-| Proyecto Anagular   |  https://micasita-demo.web.app/register  |
+| Proyecto Anagular   |  https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front  |
 
 
