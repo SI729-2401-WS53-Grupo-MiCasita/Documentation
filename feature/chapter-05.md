@@ -265,6 +265,51 @@ Por último, para mostrar nuestro progreso, desplegamos el proyecto en la rama m
 A lo largo del primer sprint, todos los integrantes del equipo de HomeHeavenly estuvimos comprometidos y colaboramos de manera continua en la realización de las tareas asignadas. Cada uno de nosotros demostró el avance de sus respectivas labores mediante la presentación de sus avances individuales.
 ![image](https://hackmd.io/_uploads/H14cUtFe0.png)
 
+# Sprint 3
+## 5.2.3. Sprint Planning 3
+En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
+
+![image](https://hackmd.io/_uploads/BySJdnLmR.png)
+
+## 5.2.3.2. Sprint Backlog 3
+
+Este Sprint se centra en la implementación de una nueva vista para nuestra página web y apliaciones web, diseñada para mejorar la experiencia del usuario mediante una interfaz más visual y moderna. El objetivo principal es proporcionar a nuestros usuarios una forma más intuitiva y atractiva de interactuar con nuestra plataforma, haciendo que la navegación y el acceso a las funcionalidades sean más fluidos y menos complicados.Además de la nueva vista, el Sprint también incluirá la incorporación de funciones básicas esenciales que faciliten el uso de la plataforma para los usuarios nuevos y existentes. Estas funciones estarán diseñadas para ser simples y directas, permitiendo a los usuarios realizar tareas comunes de manera rápida y eficiente.La implementación de esta nueva vista y funcionalidades básicas es un paso crucial para mejorar la usabilidad y la retención de usuarios, asegurando que nuestra plataforma permanezca competitiva y relevante en el mercado. Este Sprint representará un hito importante en el camino hacia la mejora continua de nuestra oferta digital, buscando siempre ofrecer la mejor experiencia posible a nuestros usuarios.
+
+![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
+
+
+` Falta incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general). `
+
+## 5.2.3.3. Development Evidence for Sprint Review
+
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Design of Interviews
+
+
+### 5.3.2. Recording of Interviews
+
+
+### 5.3.3. Evaluations according to Heuristics
+
+
+## 5.4. Video About-the-Product
+
+
 
 ## Conclusiones 
 
