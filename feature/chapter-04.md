@@ -438,57 +438,129 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 ### 4.7.1. Class Diagrams
 ![MiCasita](https://res.cloudinary.com/dveil4prg/image/upload/v1714354419/MiCasita_1_u2vyg7.png)
 ### 4.7.2. Class Dictionary
-| Name | Description |
-|-----------------|------------|
--- User -- 
-| 1.  userID |   Identificador único para cada usuario en el sistema. |
-| 2.  email  |  La dirección de correo electrónico del usuario. |
-| 4.  phoneNumber |  El número de teléfono del usuario. |
-| 5.  address | Dirección del usuario.  | 
-| 6.  fistName |  Nombre del usuario.  | 
-| 7.  lastName |  Apellido del usuario.  | 
--- Customer -- 
-| 1.  customerId |   Identificador único para cada cliente en el sistema. |
-| 2.  review  |  La opinión del cliente del departamento. |
--- Seller -- 
-| 1.  sellerId |  Identificador único para cada vendedor en el sistema. |
-| 2.  review | Opinión de los vendedores hacia los clientes.  | 
--- Property -- 
-| 1.  propertyId |  Identificador único para cada propiedad en el sistema.  | 
-| 2.  address |  Dirección de de la propiedad.   |
-| 3.  price |  precio en dolares de la propiedad.   | 
--- House -- 
-| 1.  houseId |  Identificador único para cada casa en el sistema.  | 
-| 2.  numberOfRooms |  número de habitaciones de la casa.   |
-| 3.  numberOfBathrooms |  número de baños de la casa.   | 
-| 4.  hasGarage |  valor que indica si hay garaje en la casa.   | 
-| 5.  hasGarden |  valor que indica si hay jardín en la casa.   | 
-| 6.  hasSwimming |  valor que indica si hay piscina en la casa.   |
--- Apartment -- 
-| 1.  apartmentId |  Identificador único para cada departamento en el sistema.  | 
-| 2.  numberOfRooms |  número de habitaciones en el apartamento.   |
-| 3.  numberOfBathrooms |  número de baños de la casa.   | 
-| 4.  hasBalcony |  valor que indica si hay balcón en en el departamento.   | 
-| 5.  hasParking |  valor que indica si hay estacionamiento en el departamento.   | 
-| 6.  hasGym |  valor que indica si gimnasio en el edificio donde esta el departamento.   |
--- Contract -- 
-| 1.  contractId |  Identificador único para cada contrato en el sistema.  | 
-| 2.  date |  fecha en la que se firma el contrato   |
-| 3.  terms |  terminos del contrato.   |
--- Review -- 
-| 1.  contractId |  Identificador único para cada contrato en el sistema.  | 
-| 2.  date |  fecha en la que se firma el contrato   |
-| 3.  terms |  terminos del contrato.   |
--- Transaction -- 
-| 1.  transactionId |  Identificador único para cada transacción en el sistema.  | 
-| 2.  date |  fecha de la transacción que se queda en los perfiles.   |
-| 3.  amount |  monto acordado para el contrato.   |
+# Class Dictionary para "MiCasita"
 
+## Clase: User
+- **Descripción**: Representa un usuario de la plataforma.
+- **Atributos**:
+  - ID: Identificador único del usuario.
+  - Name: Nombre del usuario.
+  - DNI: Documento Nacional de Identidad del usuario.
+  - Email: Correo electrónico del usuario.
+  - Password: Contraseña del usuario.
+  - Phone: Número de teléfono del usuario.
+  - Address: Dirección del usuario.
 
+## Clase: Property
+- **Descripción**: Representa una propiedad que puede ser vendida o alquilada.
+- **Atributos**:
+  - ID: Identificador único de la propiedad.
+  - Title: Título de la propiedad.
+  - Description: Descripción de la propiedad.
+  - Price: Precio de la propiedad.
+  - Location: Ubicación de la propiedad.
+  - Status: Estado de la propiedad (disponible, vendida, alquilada).
+  - Type: Tipo de propiedad (casa, apartamento, etc.).
+  - Size: Tamaño de la propiedad.
+  - Bedrooms: Número de habitaciones.
+  - Bathrooms: Número de baños.
+  - GarageSpaces: Número de espacios de garaje.
+  - YearBuilt: Año de construcción.
+  - OwnerID: Identificador del propietario de la propiedad.
 
--- Apartment -- 
+## Clase: PaymentMethod
+- **Descripción**: Representa un método de pago asociado a un usuario.
+- **Atributos**:
+  - ID: Identificador único del método de pago.
+  - UserID: Identificador del usuario al que pertenece el método de pago.
+  - CardNumber: Número de tarjeta.
+  - ExpiryDate: Fecha de expiración de la tarjeta.
+  - CardholderName: Nombre del titular de la tarjeta.
+  - BillingAddress: Dirección de facturación.
 
+## Clase: Transaction
+- **Descripción**: Representa una transacción de compra, venta o alquiler de una propiedad.
+- **Atributos**:
+  - ID: Identificador único de la transacción.
+  - UserID: Identificador del usuario que realiza la transacción.
+  - PropertyID: Identificador de la propiedad involucrada en la transacción.
+  - DateTime: Fecha y hora de la transacción.
+  - Amount: Monto de la transacción.
+  - Status: Estado de la transacción (completada, pendiente, cancelada).
+
+## Clase: Comment
+- **Descripción**: Representa un comentario dejado por un usuario en una propiedad.
+- **Atributos**:
+  - ID: Identificador único del comentario.
+  - UserID: Identificador del usuario que dejó el comentario.
+  - PropertyID: Identificador de la propiedad sobre la que se comenta.
+  - Text: Texto del comentario.
+  - DateTime: Fecha y hora del comentario.
+
+## Clase: Notification
+- **Descripción**: Representa una notificación enviada a un usuario.
+- **Atributos**:
+  - ID: Identificador único de la notificación.
+  - UserID: Identificador del usuario que recibe la notificación.
+  - Message: Mensaje de la notificación.
+  - DateTime: Fecha y hora de la notificación.
+  - Status: Estado de la notificación (leída, no leída).
+
+## Clase: Favorite
+- **Descripción**: Representa una propiedad marcada como favorita por un usuario.
+- **Atributos**:
+  - ID: Identificador único del favorito.
+  - UserID: Identificador del usuario que marcó la propiedad como favorita.
+  - PropertyID: Identificador de la propiedad marcada como favorita.
+
+## Clase: Viewing
+- **Descripción**: Representa una visita de un usuario a una propiedad.
+- **Atributos**:
+  - ID: Identificador único de la visita.
+  - UserID: Identificador del usuario que visita la propiedad.
+  - PropertyID: Identificador de la propiedad visitada.
+  - DateTime: Fecha y hora de la visita.
+  - Status: Estado de la visita (pendiente, completada, cancelada).
+
+## Clase: Message
+- **Descripción**: Permite la comunicación entre usuarios sobre propiedades.
+- **Atributos**:
+  - ID: Identificador único del mensaje.
+  - SenderID: Identificador del usuario que envía el mensaje.
+  - ReceiverID: Identificador del usuario que recibe el mensaje.
+  - PropertyID: Identificador de la propiedad sobre la que se comunica.
+  - Content: Contenido del mensaje.
+  - DateTime: Fecha y hora del mensaje.
+
+## Clase: Booking
+- **Descripción**: Permite a los usuarios realizar reservas de propiedades antes de una transacción final.
+- **Atributos**:
+  - ID: Identificador único de la reserva.
+  - UserID: Identificador del usuario que realiza la reserva.
+  - PropertyID: Identificador de la propiedad reservada.
+  - DateTime: Fecha y hora de la reserva.
+  - Status: Estado de la reserva (pendiente, confirmada, cancelada).
+
+## Clase: PropertyImage
+- **Descripción**: Permite guardar las imágenes de la propiedad en una tabla para luego visualizarlas.
+- **Atributos**:
+  - ID: Identificador único de la imagen.
+  - Url: URL de la imagen.
+  - PropertyID: Identificador de la propiedad a la que pertenece la imagen.
+
+## Relación de Clases
+
+- **User** tiene múltiples **PaymentMethods**, **Notifications**, **Favorites**, **Messages**, **Viewings**, **Transactions**, **Comments**, y **Bookings**.
+- **Property** tiene múltiples **Comments**, **Viewings**, **Favorites**, **Messages**, **Bookings**, **Transactions**, y **PropertyImages**.
+- **PaymentMethod** pertenece a un **User**.
+- **Transaction** pertenece a un **User** y a un **Property**.
+- **Comment** pertenece a un **User** y a un **Property**.
+- **Notification** pertenece a un **User**.
+- **Favorite** pertenece a un **User** y a un **Property**.
+- **Viewing** pertenece a un **User** y a un **Property**.
+- **Message** tiene un **Sender** (User), un **Receiver** (User), y está asociado a un **Property**.
+- **Booking** pertenece a un **User** y a un **Property**.
+- **PropertyImage** pertenece a un **Property**.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-04-09_12-35](https://res.cloudinary.com/dveil4prg/image/upload/v1714350053/MiCasita-2024-04-28_17-18_o8mthw.png)
-
+![MiCasita-2024-05-21_12-23](https://hackmd.io/_uploads/BJoa_L9Q0.png)
