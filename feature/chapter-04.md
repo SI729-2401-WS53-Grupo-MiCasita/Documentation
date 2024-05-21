@@ -513,7 +513,7 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
   - UserID: Identificador del usuario que marcó la propiedad como favorita.
   - PropertyID: Identificador de la propiedad marcada como favorita.
 
-## Clase: Viewing
+## Clase: Visits
 - **Descripción**: Representa una visita de un usuario a una propiedad.
 - **Atributos**:
   - ID: Identificador único de la visita.
@@ -532,7 +532,7 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
   - Content: Contenido del mensaje.
   - DateTime: Fecha y hora del mensaje.
 
-## Clase: Booking
+## Clase: Rents
 - **Descripción**: Permite a los usuarios realizar reservas de propiedades antes de una transacción final.
 - **Atributos**:
   - ID: Identificador único de la reserva.
@@ -550,17 +550,18 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 
 ## Relación de Clases
 
-- **User** tiene múltiples **PaymentMethods**, **Notifications**, **Favorites**, **Messages**, **Viewings**, **Transactions**, **Comments**, y **Bookings**.
-- **Property** tiene múltiples **Comments**, **Viewings**, **Favorites**, **Messages**, **Bookings**, **Transactions**, y **PropertyImages**.
+- **User** tiene múltiples **PaymentMethods**, **Notifications**, **Favorites**, **Messages**, **Viewings**, **Transactions**, **Comments**, y **Rents**.
+- **Property** tiene múltiples **Comments**, **Visits**, **Favorites**, **Messages**, **Bookings**, **Transactions**, y **PropertyImages**.
 - **PaymentMethod** pertenece a un **User**.
 - **Transaction** pertenece a un **User** y a un **Property**.
 - **Comment** pertenece a un **User** y a un **Property**.
 - **Notification** pertenece a un **User**.
 - **Favorite** pertenece a un **User** y a un **Property**.
-- **Viewing** pertenece a un **User** y a un **Property**.
+- **Visits** pertenece a un **User** y a un **Property**.
 - **Message** tiene un **Sender** (User), un **Receiver** (User), y está asociado a un **Property**.
-- **Booking** pertenece a un **User** y a un **Property**.
+- **Rent** pertenece a un **User** y a un **Property**.
 - **PropertyImage** pertenece a un **Property**.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-05-21_12-23](https://hackmd.io/_uploads/BJoa_L9Q0.png)
+![MiCasita-2024-05-21_13-33](https://hackmd.io/_uploads/HkAVFDqXA.png)
+
