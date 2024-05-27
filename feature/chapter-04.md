@@ -563,5 +563,5 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 - **PropertyImage** pertenece a un **Property**.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-05-21_13-33](https://hackmd.io/_uploads/HkAVFDqXAhttps://media.discordapp.net/attachments/1235450465035223110/1244733146436735026/IMG-20240527-WA0012.jpg?ex=66562f94&is=6654de14&hm=ab8238002ce2bd5b6bb54fa87cf56573d164f0ea61f1234b005ba9a68117ad98&)
+![MiCasita-2024-05-21_13-33](https://media.discordapp.net/attachments/1235450465035223110/1244733146436735026/IMG-20240527-WA0012.jpg?ex=66562f94&is=6654de14&hm=ab8238002ce2bd5b6bb54fa87cf56573d164f0ea61f1234b005ba9a68117ad98&)
 
