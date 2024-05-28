@@ -436,132 +436,14 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![MiCasita](https://res.cloudinary.com/dveil4prg/image/upload/v1714354419/MiCasita_1_u2vyg7.png)
+
+
 ### 4.7.2. Class Dictionary
+
 # Class Dictionary para "MiCasita"
 
-## Clase: User
-- **Descripción**: Representa un usuario de la plataforma.
-- **Atributos**:
-  - ID: Identificador único del usuario.
-  - Name: Nombre del usuario.
-  - DNI: Documento Nacional de Identidad del usuario.
-  - Email: Correo electrónico del usuario.
-  - Password: Contraseña del usuario.
-  - Phone: Número de teléfono del usuario.
-  - Address: Dirección del usuario.
 
-## Clase: Property
-- **Descripción**: Representa una propiedad que puede ser vendida o alquilada.
-- **Atributos**:
-  - ID: Identificador único de la propiedad.
-  - Title: Título de la propiedad.
-  - Description: Descripción de la propiedad.
-  - Price: Precio de la propiedad.
-  - Location: Ubicación de la propiedad.
-  - Status: Estado de la propiedad (disponible, vendida, alquilada).
-  - Type: Tipo de propiedad (casa, apartamento, etc.).
-  - Size: Tamaño de la propiedad.
-  - Bedrooms: Número de habitaciones.
-  - Bathrooms: Número de baños.
-  - GarageSpaces: Número de espacios de garaje.
-  - YearBuilt: Año de construcción.
-  - OwnerID: Identificador del propietario de la propiedad.
-
-## Clase: PaymentMethod
-- **Descripción**: Representa un método de pago asociado a un usuario.
-- **Atributos**:
-  - ID: Identificador único del método de pago.
-  - UserID: Identificador del usuario al que pertenece el método de pago.
-  - CardNumber: Número de tarjeta.
-  - ExpiryDate: Fecha de expiración de la tarjeta.
-  - CardholderName: Nombre del titular de la tarjeta.
-  - BillingAddress: Dirección de facturación.
-
-## Clase: Transaction
-- **Descripción**: Representa una transacción de compra, venta o alquiler de una propiedad.
-- **Atributos**:
-  - ID: Identificador único de la transacción.
-  - UserID: Identificador del usuario que realiza la transacción.
-  - PropertyID: Identificador de la propiedad involucrada en la transacción.
-  - DateTime: Fecha y hora de la transacción.
-  - Amount: Monto de la transacción.
-  - Status: Estado de la transacción (completada, pendiente, cancelada).
-
-## Clase: Comment
-- **Descripción**: Representa un comentario dejado por un usuario en una propiedad.
-- **Atributos**:
-  - ID: Identificador único del comentario.
-  - UserID: Identificador del usuario que dejó el comentario.
-  - PropertyID: Identificador de la propiedad sobre la que se comenta.
-  - Text: Texto del comentario.
-  - DateTime: Fecha y hora del comentario.
-
-## Clase: Notification
-- **Descripción**: Representa una notificación enviada a un usuario.
-- **Atributos**:
-  - ID: Identificador único de la notificación.
-  - UserID: Identificador del usuario que recibe la notificación.
-  - Message: Mensaje de la notificación.
-  - DateTime: Fecha y hora de la notificación.
-  - Status: Estado de la notificación (leída, no leída).
-
-## Clase: Favorite
-- **Descripción**: Representa una propiedad marcada como favorita por un usuario.
-- **Atributos**:
-  - ID: Identificador único del favorito.
-  - UserID: Identificador del usuario que marcó la propiedad como favorita.
-  - PropertyID: Identificador de la propiedad marcada como favorita.
-
-## Clase: Visits
-- **Descripción**: Representa una visita de un usuario a una propiedad.
-- **Atributos**:
-  - ID: Identificador único de la visita.
-  - UserID: Identificador del usuario que visita la propiedad.
-  - PropertyID: Identificador de la propiedad visitada.
-  - DateTime: Fecha y hora de la visita.
-  - Status: Estado de la visita (pendiente, completada, cancelada).
-
-## Clase: Message
-- **Descripción**: Permite la comunicación entre usuarios sobre propiedades.
-- **Atributos**:
-  - ID: Identificador único del mensaje.
-  - SenderID: Identificador del usuario que envía el mensaje.
-  - ReceiverID: Identificador del usuario que recibe el mensaje.
-  - PropertyID: Identificador de la propiedad sobre la que se comunica.
-  - Content: Contenido del mensaje.
-  - DateTime: Fecha y hora del mensaje.
-
-## Clase: Rents
-- **Descripción**: Permite a los usuarios realizar reservas de propiedades antes de una transacción final.
-- **Atributos**:
-  - ID: Identificador único de la reserva.
-  - UserID: Identificador del usuario que realiza la reserva.
-  - PropertyID: Identificador de la propiedad reservada.
-  - DateTime: Fecha y hora de la reserva.
-  - Status: Estado de la reserva (pendiente, confirmada, cancelada).
-
-## Clase: PropertyImage
-- **Descripción**: Permite guardar las imágenes de la propiedad en una tabla para luego visualizarlas.
-- **Atributos**:
-  - ID: Identificador único de la imagen.
-  - Url: URL de la imagen.
-  - PropertyID: Identificador de la propiedad a la que pertenece la imagen.
-
-## Relación de Clases
-
-- **User** tiene múltiples **PaymentMethods**, **Notifications**, **Favorites**, **Messages**, **Viewings**, **Transactions**, **Comments**, y **Rents**.
-- **Property** tiene múltiples **Comments**, **Visits**, **Favorites**, **Messages**, **Bookings**, **Transactions**, y **PropertyImages**.
-- **PaymentMethod** pertenece a un **User**.
-- **Transaction** pertenece a un **User** y a un **Property**.
-- **Comment** pertenece a un **User** y a un **Property**.
-- **Notification** pertenece a un **User**.
-- **Favorite** pertenece a un **User** y a un **Property**.
-- **Visits** pertenece a un **User** y a un **Property**.
-- **Message** tiene un **Sender** (User), un **Receiver** (User), y está asociado a un **Property**.
-- **Rent** pertenece a un **User** y a un **Property**.
-- **PropertyImage** pertenece a un **Property**.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-05-21_13-33](assets/Micasita3-2024-05-28_17-55.png)
+![MiCasita-2024-05-21_13-33](assets/micasitadatabases.png)
 
