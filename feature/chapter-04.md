@@ -445,5 +445,5 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-05-21_13-33](../assets/micasitadatabases.png)
+![MiCasita-2024-05-21_13-33](../assets/micasitadatabase.png)
 
