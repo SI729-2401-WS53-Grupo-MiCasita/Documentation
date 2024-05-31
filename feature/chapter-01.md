@@ -16,14 +16,11 @@ MiCasita
 **Grupo 2**
 
 **Team Members:**
-<<<<<<< Updated upstream
-=======
 - Cantoral Sedamano, Alexander ALberto | U20181b152
->>>>>>> Stashed changes
 - Rojas Velasquez, Maycol Jhordan | U202219984
 - Calderón Huamán, Jose Daniel Mario | U202213076
 - Antonio Fretle, Jeremi Jose | U202219022
-
+- Manco Cuellar, Anthony Ramon | U201810954 
 Ciclo 2024-01 | Sección WS53
 
 
