@@ -436,7 +436,7 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-
+![Class Diagram](https://res.cloudinary.com/dveil4prg/image/upload/v1717297370/MiCasita_q9lycv.png)
 
 ### 4.7.2. Class Dictionary
 
