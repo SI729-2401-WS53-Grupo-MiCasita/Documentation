@@ -477,24 +477,62 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 | 30. amount | Precio de la propiedad.  |
 | 31. status | Estado de venta de la propiedad.  |
 -- Rent -- 
-| 26. ID | Identificador de la renta de la propiedad en el sistema.  |
-| 27. userID | Identificador del usuario del que esta ligado el alquiler de la propiedad.  |
-| 28. propertyID | Identificador de la propiedad.  |
-| 29. initialDate | Fecha de inicio del alquiler de la propiedad.  |
-| 30. finishDate | Fecha de fin del alquiler de la propiedad.  |
-| 31. amount | Fecha de pago mensual de la propiedad.  |
-| 32. status | Estado de alquiler de la propiedad.  |
+| 32. ID | Identificador de la renta de la propiedad en el sistema.  |
+| 33. userID | Identificador del usuario del que esta ligado el alquiler de la propiedad.  |
+| 34. propertyID | Identificador de la propiedad.  |
+| 35. initialDate | Fecha de inicio del alquiler de la propiedad.  |
+| 36. finishDate | Fecha de fin del alquiler de la propiedad.  |
+| 37. amount | Fecha de pago mensual de la propiedad.  |
+| 38. status | Estado de alquiler de la propiedad.  |
 -- Publication -- 
-| 33. publicationID | Identificador de la publicación en el sistema.  |
-| 34. propertyID | Identificador de la propiedad en el sistema.  |
-| 35. commentID | Identificador de los comentarios en el sistema.  |
-| 36. sellerID | Identificador del vendedor en el sistema.  |
+| 39. publicationID | Identificador de la publicación en el sistema.  |
+| 40. propertyID | Identificador de la propiedad en el sistema.  |
+| 41. commentID | Identificador de los comentarios en el sistema.  |
+| 42. sellerID | Identificador del vendedor en el sistema.  |
 -- Appointment -- 
-| 33. appointmentsID | Identificador de la visita en el sistema.  |
-| 34. userID | Identificador de la propiedad en el sistema.  |
-| 35. propertyID | Identificador de la propiedad en el sistema.  |
-| 36. dateTime | Fecha de visita de la propiedad  |
-
+| 43. appointmentsID | Identificador de la visita en el sistema.  |
+| 44. userID | Identificador de la propiedad en el sistema.  |
+| 45. propertyID | Identificador de la propiedad en el sistema.  |
+| 46. dateTime | Fecha de visita a la propiedad.  |
+-- Visit -- 
+| 47. visitID | Identificador de la visita a la propiedad en el sistema. |
+| 48. userID | Identificador del usuario en el sistema.  |
+| 49. propertyID | Identificador del usuario en el sistema.  |
+| 50. dateTime | Fecha de visita a la propiedad.  |
+| 51. status | Estado de la propiedad visitada.  |
+-- Comment -- 
+| 52. commentID | Identificador del comentario del usuario en el sistema. |
+| 53. userID | Identificador del usuario en el sistema. |
+| 54. propertyID | Identificador de la propiedad en el sistema. |
+| 55. text | Texto del comentario del usuario. |
+| 56. dateTime | Fecha del comentario. |
+-- Favorite -- 
+| 57. favoriteID | Identificador de la propiedad favorita del usuario en el sistema. |
+| 58. userID | Identificador del usuario en el sistema. |
+| 59. propertyID | Identificador de la propiedad en el sistema. |
+-- PaymentMethod -- 
+| 60. paymentMethodID | Identificador del metodo de pago que esta en el sistema. |
+| 61. userID | Identificador del usuario en el sistema. |
+| 62. cardNumber | Número de la tarjeta de pago en el sistema. |
+| 63. expiryDate | Fecha de vencimiento de la tarjeta de pago. |
+| 64. cardHolderName | Nombre del propietario de la tarjeta de pago. |
+| 65. billingAddress | Dirección de coobro donde figura la tarjeta de pago. |
+| 66. buyID | Identificador de compra de la propiedad. |
+| 67. rentID | Identificador de la renta que figura en el sistema. |
+-- Notification -- 
+| 68. notificationID | Identificador de la notificación que esta en el sistema. |
+| 69. userID | Identificador del usuario en el sistema. |
+| 70. message | Texto de la notificación. |
+| 71. dateTime | Fecha de la notificación. |
+| 72. status | Estado de la notifiación. |
+| 73. transactionID | Identificador de la transacción en el sistema. |
+| 74. publicationID | Identificador de la publicación en el sistema. |
+-- Message -- 
+| 75. messageID | Identificador del mensaje en el sistema. |
+| 76. userID | Identificador del usuario en el sistema. |
+| 77. propertyID | Identificador de la propiedad en el sistema. |
+| 78. content | Contenido del mensaje. |
+| 79. dateTime | Fecha del mensaje escrito por el usuario. |
 
 # Class Dictionary para "MiCasita"
 
