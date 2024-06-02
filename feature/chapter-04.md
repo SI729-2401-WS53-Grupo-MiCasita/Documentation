@@ -439,6 +439,62 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 ![Class Diagram](https://res.cloudinary.com/dveil4prg/image/upload/v1717297370/MiCasita_q9lycv.png)
 
 ### 4.7.2. Class Dictionary
+| Name | Description |
+|-----------------|------------|
+-- User -- 
+| 1. ID | Identificador único para cada usuario en el sistema. |
+| 2. name  | Nombre del usuario. |
+| 4. email | La dirección de correo electrónico del usuario. |
+| 5. password | Contraseña que le permite al usuario entrar a la plataforma.  | 
+| 6. phone | Número de teléfono del usuario.  | 
+| 7. address | Dirección de la vivienda del usuario.  | 
+-- Seller --
+| 8. userID | Identificador único del en el sistema.  |
+| 9. sellerID | Identificador único del vendedor en el sistema.  |
+| 10. propertyID | Identificador de la viviendo en venta o alquiler, que le pertence al vendedor.  |
+-- Property --  
+| 11. propertyID | Identificador único para cada propiedad en el sistema.  |
+| 12. title | Titulo de la propiedad en el sistema.  |
+| 13. description | Descripción detallada de la propiedad. |
+| 14. price |  Precio monetario de la propiedad.  | 
+| 15. location | Locación de la propiedad. | 
+| 16. status | Estatus de la propiedad si esta en venta o alquiler. |
+| 17. type | Tipo de vivienda.  |
+| 18. size | Dimensiones del terreno propiedad.  |
+| 19. bedrooms | Número de las habitaciones de la propiedad.  |
+| 20. bathrooms | Número de los baños de la propiedad.  |
+| 21. garageSpaces | Valor que verificia si la propeidad tiene lugar de estacionamiento.  |
+| 22. yearBuilt | Año de la construcción de la propiedad.  |
+| 23. propertyImageID | Identificador de la imagen de la propiedad en el sistema.  |
+-- PropertyImage -- 
+| 24. ID | Identificador de la imagen de la propiedad en el sistema.  |
+| 25. img | Imagen de la propiedad en el sistema.  |
+-- Buy -- 
+| 26. ID | Identificador de la venta de la propiedad en el sistema.  |
+| 27. userID | Identificador del usuario del que esta ligado la venta de la propiedad.  |
+| 28. propertyID | Identificador de la propiedad.  |
+| 29. saleDate | Fecha de la venta de la propiedad.  |
+| 30. amount | Precio de la propiedad.  |
+| 31. status | Estado de venta de la propiedad.  |
+-- Rent -- 
+| 26. ID | Identificador de la renta de la propiedad en el sistema.  |
+| 27. userID | Identificador del usuario del que esta ligado el alquiler de la propiedad.  |
+| 28. propertyID | Identificador de la propiedad.  |
+| 29. initialDate | Fecha de inicio del alquiler de la propiedad.  |
+| 30. finishDate | Fecha de fin del alquiler de la propiedad.  |
+| 31. amount | Fecha de pago mensual de la propiedad.  |
+| 32. status | Estado de alquiler de la propiedad.  |
+-- Publication -- 
+| 33. publicationID | Identificador de la publicación en el sistema.  |
+| 34. propertyID | Identificador de la propiedad en el sistema.  |
+| 35. commentID | Identificador de los comentarios en el sistema.  |
+| 36. sellerID | Identificador del vendedor en el sistema.  |
+-- Appointment -- 
+| 33. appointmentsID | Identificador de la visita en el sistema.  |
+| 34. userID | Identificador de la propiedad en el sistema.  |
+| 35. propertyID | Identificador de la propiedad en el sistema.  |
+| 36. dateTime | Fecha de visita de la propiedad  |
+
 
 # Class Dictionary para "MiCasita"
 
