@@ -186,6 +186,65 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 | US005 | Iniciar Sesión en la Aplicación | Como visitante, quiero poder acceder a mi cuenta de usuario existente para utilizar las funcionalidades de la aplicación. |  
 
 ![image](https://hackmd.io/_uploads/ryjEEI6Z0.png)
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Página "Sobre"</td>
+    <td>T01</td>
+    <td>Registro de la página</td>
+    <td>2</td>
+    <td>Cantoral Sedamano, Alexander ALberto</td>
+    <td>To - do</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Página de Contacto</td>
+    <td>T02</td>
+    <td>Creación de la página</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>To - do</td>
+<tr>
+    <td>US003</td>
+    <td>Centro de Ayuda</td>
+    <td>T04</td>
+    <td>Visualizar el Centro de Ayuda</td>
+    <td>3</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>To - do</td>
+ </tr>
+<tr>
+    <td>US004</td>
+    <td>Registro de Nuevos Usuarios</td>
+    <td>T05</td>
+    <td>Registro de Visitas</td>
+    <td>5</td>
+    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>To - do</td>
+ </tr>
+<tr>
+    <td>US005</td>
+    <td>Iniciar Sesión en la Aplicación</td>
+    <td>T06</td>
+    <td>Inicio de sesión en la aplicación</td>
+    <td>3</td>
+    <td>Manco Cuellar, Anthony Ramon</td>
+    <td>To - do</td>
+ </tr>
+</table>
 
 
 ### 5.2.2. Sprint 2
