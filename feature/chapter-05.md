@@ -161,6 +161,20 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 #### 5.2.1.1 Sprint Planning 1
 
 ![image](https://hackmd.io/_uploads/ryEOGLT-R.png)
+| Sprint # | Sprint 1  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-04 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Rojas Velasquez, Maycol Jhordan -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Cantoral Sedamano, Alexander ALberto -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se implementó correctamente el landing page estático. | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia ópptima para los visitantes. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con inicio de sesión. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con el registro de usuarios están implementadas y hecho con las entrevistas de segmentos objetivos.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 20 Story Points | 
 
 #### 5.2.1.2 Sprint  Backlog 1
 | Epic / Story ID | Título | Descripción | 
@@ -172,7 +186,6 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 | US005 | Iniciar Sesión en la Aplicación | Como visitante, quiero poder acceder a mi cuenta de usuario existente para utilizar las funcionalidades de la aplicación. |  
 
 ![image](https://hackmd.io/_uploads/ryjEEI6Z0.png)
-
 
 
 ### 5.2.2. Sprint 2
