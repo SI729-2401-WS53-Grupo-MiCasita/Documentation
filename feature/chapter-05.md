@@ -160,7 +160,6 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 
 #### 5.2.1.1 Sprint Planning 1
 
-![image](https://hackmd.io/_uploads/ryEOGLT-R.png)
 | Sprint # | Sprint 1  | 
 |--------------------|------------|
 | Sprint Planning Background | 
@@ -168,7 +167,7 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 | Time |  10:00 AM |
 | Location |  UPC - Campus San Miguel |
 | Preparate by| Maycol Jhordan Rojas Velasquez | 
-|  Attendees (to planning meeting) | -Rojas Velasquez, Maycol Jhordan -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Cantoral Sedamano, Alexander ALberto -Manco Cuellar, Anthony Ramon | 
+|  Attendees (to planning meeting) | -Abanto Vicente, Edery Renzo -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
 | Sprint n-1 Review Summary | Se implementó correctamente el landing page estático. | 
 | Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia ópptima para los visitantes. |
 | Sprint Goal & User Stories | 
@@ -185,7 +184,6 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 | US004 | Registro de Nuevos Usuarios | Como visitante, quiero poder registrarme como usuario para acceder a todas las funcionalidades de la aplicación. |  
 | US005 | Iniciar Sesión en la Aplicación | Como visitante, quiero poder acceder a mi cuenta de usuario existente para utilizar las funcionalidades de la aplicación. |  
 
-![image](https://hackmd.io/_uploads/ryjEEI6Z0.png)
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
     <td colspan="2"><b>User Story</b></td>
@@ -206,7 +204,7 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
     <td>T01</td>
     <td>Registro de la página</td>
     <td>2</td>
-    <td>Cantoral Sedamano, Alexander ALberto</td>
+    <td>Abanto Vicente, Edery Renzo</td>
     <td>To - do</td>
  </tr>
  <tr>
@@ -223,7 +221,7 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
     <td>T04</td>
     <td>Visualizar el Centro de Ayuda</td>
     <td>3</td>
-    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
     <td>To - do</td>
  </tr>
 <tr>
@@ -232,7 +230,7 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
     <td>T05</td>
     <td>Registro de Visitas</td>
     <td>5</td>
-    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
     <td>To - do</td>
  </tr>
 <tr>
@@ -246,7 +244,6 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
  </tr>
 </table>
 
-
 ### 5.2.2. Sprint 2
 En este informe, se detallan las correcciones realizadas en el informe completo, así como los puntos a trabajar para la elaboración de la primera versión de la aplicación web front-end "Mi Casita".
 
@@ -255,8 +252,21 @@ Durante la revisión del informe completo, se identificaron áreas que requería
 Además de las correcciones realizadas, se han designado puntos específicos para trabajar en la elaboración de la primera versión de la aplicación web front-end "Mi Casita". Estos puntos incluyen aspectos como el diseño de la interfaz de usuario, la implementación de funcionalidades clave y la optimización del rendimiento del sitio web.
 
 #### 5.2.2.1. Sprint Planning 2.
-![image](https://hackmd.io/_uploads/HkfvB8T-R.png)
 
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-08 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Abanto Vicente, Edery Renzo -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se realizó las correcciones de la landing page correctamente | 
+| Sprint Planning Background | Durante la etapa anterior se desarrolló con complicaciones e ideas de los integrantes de manera coherente, y responsive. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con angular para poder desarrollar correctamente lo aprendido en clase.|  
+| Sprint Velocity | Se establece un Velocity de 25 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
 
 #### 5.2.2.2. Sprint Backlog 2
 | Epic / Story ID | Título | Descripción | 
@@ -270,10 +280,65 @@ Además de las correcciones realizadas, se han designado puntos específicos par
 | US008        | Actualizar Usuario | Como administrador, quiero poder actualizar la información de un usuario existente en el sistema para corregir datos incorrectos o desactualizados.                                 | **Escenario 1:** Actualización exitosa de la información del usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** modifica la información del usuario <br> **Then** el sistema guarda los cambios y muestra un mensaje de éxito. <br><br> **Escenario 2:** Error en la actualización de la información del usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** intenta modificar la información del usuario con datos inválidos <br> **Then** el sistema muestra un mensaje de error y no guarda los cambios. | EPIC002                    |
 | US009        | Eliminar Usuario  | Como administrador, quiero poder eliminar un usuario del sistema si ya no es necesario o si incumple las políticas de la plataforma.                                                   | **Escenario 1:** Eliminación exitosa de usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** confirma la eliminación del usuario <br> **Then** el sistema elimina al usuario y muestra un mensaje de confirmación. <br><br> **Escenario 2:** Cancelar eliminación de usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** cancela la eliminación del usuario <br> **Then** el sistema no elimina al usuario y vuelve a la página de detalles del usuario. | EPIC002
 
-![image](https://hackmd.io/_uploads/SkyKvIaWA.png)
-
-
-
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Crear Usuario</td>
+    <td>T01</td>
+    <td>Creación de Usuario</td>
+    <td>5</td>
+    <td>Abanto Vicente, Edery Renzo</td>
+    <td>in Process</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Agregar Propiedad</td>
+    <td>T02</td>
+    <td>Agregación de propiedad</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>in Process</td>
+<tr>
+    <td>US003</td>
+    <td>Búsqueda por filtros</td>
+    <td>T04</td>
+    <td>Búsqueda por filtros</td>
+    <td>5</td>
+    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>in Process</td>
+ </tr>
+<tr>
+    <td>US004</td>
+    <td>Reservar Cita para ver propiedad</td>
+    <td>T05</td>
+    <td>Reserva de citas</td>
+    <td>4</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>in Process</td>
+ </tr>
+<tr>
+    <td>US005</td>
+    <td>Ver mis citas reservadas</td>
+    <td>T06</td>
+    <td>Citas guardadas</td>
+    <td>4</td>
+    <td>Manco Cuellar, Anthony Ramon</td>
+    <td>in Process</td>
+ </tr>
+</table>
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 <table>
@@ -341,11 +406,103 @@ A lo largo del primer sprint, todos los integrantes del equipo de HomeHeavenly e
 ## 5.2.3. Sprint Planning 3
 En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
 
-![image](https://hackmd.io/_uploads/BySJdnLmR.png)
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-05-30 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Cantoral Sedamano, Alexander ALberto -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se realizó las correcciones necesarios para el front-end de la aplicación web | 
+| Sprint Planning Background | Luego de la reestructuración del equipo se repartiaron las tareas apropiadas para cada miembro relacionado con el backend |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con relacionada con el back-end utilizando Spring realizando el código con ayuda del diagrama de Base de datos.|  
+| Sprint Velocity | Se establece un Velocity de 40 Story Points para este Sprint. | 
+| Sum of Story Points | 40 Story Points | 
 
 ## 5.2.3.2. Sprint Backlog 3
 
 Este Sprint se centra en la implementación de una nueva vista para nuestra página web y apliaciones web, diseñada para mejorar la experiencia del usuario mediante una interfaz más visual y moderna. El objetivo principal es proporcionar a nuestros usuarios una forma más intuitiva y atractiva de interactuar con nuestra plataforma, haciendo que la navegación y el acceso a las funcionalidades sean más fluidos y menos complicados.Además de la nueva vista, el Sprint también incluirá la incorporación de funciones básicas esenciales que faciliten el uso de la plataforma para los usuarios nuevos y existentes. Estas funciones estarán diseñadas para ser simples y directas, permitiendo a los usuarios realizar tareas comunes de manera rápida y eficiente.La implementación de esta nueva vista y funcionalidades básicas es un paso crucial para mejorar la usabilidad y la retención de usuarios, asegurando que nuestra plataforma permanezca competitiva y relevante en el mercado. Este Sprint representará un hito importante en el camino hacia la mejora continua de nuestra oferta digital, buscando siempre ofrecer la mejor experiencia posible a nuestros usuarios.
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US006</td>
+    <td>Iniciar Sesión en la aplicación</td>
+    <td>T01</td>
+    <td>Inicio de la sesión en la aplicación</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US011</td>
+    <td>Agregar Propiedad</td>
+    <td>T02</td>
+    <td>Agregación de propiedad</td>
+    <td>5</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>Done</td>
+<tr>
+    <td>US018</td>
+    <td>Ver Disponibilidad de Citas</td>
+    <td>T03</td>
+    <td>Citas disponibles</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+<tr>
+    <td>US019</td>
+    <td>Reservar Cita para ver propiedad</td>
+    <td>T04</td>
+    <td>Reserva de citas</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+<tr>
+    <td>US020</td>
+    <td>Ver mis citas reservadas</td>
+    <td>T05</td>
+    <td>Ver citas reservadas</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US023</td>
+    <td>Gestión de Métodos de Pago</td>
+    <td>T06</td>
+    <td>Métodos de pago</td>
+    <td>5</td>
+    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US024</td>
+    <td>Página no encontrada 404</td>
+    <td>T07</td>
+    <td>Página no encontrada</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+</table>
 
 ![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
 
