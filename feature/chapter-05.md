@@ -524,7 +524,6 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 
 
 
-
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Landing Page evidence:
@@ -540,8 +539,12 @@ Backend Evidence:
 
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
-
-
+LandinPage Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20lp.PNG)
+Frontend Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20front.PNG)
+Backend Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back.PNG)
 
 
 ## 5.3. Validation Interviews
@@ -603,7 +606,7 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ## 5.4. Video About-the-Product
 
-
+Enlace del Video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones 
 
