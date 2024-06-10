@@ -511,29 +511,94 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 
 ## 5.2.3.3. Development Evidence for Sprint Review
 
+
+
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+
 ## 5.2.3.5. Execution Evidence for Sprint Review
+
 
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 
+
+
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Landing Page evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Landingpageopen.PNG)
+Link de la Landing Page desplegada: https://micasita-landingpage.netlify.app/ 
+Frontend Evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20webopen.PNG)
+Link del Frontend desplegado: https://micasita-frontend.web.app/register
+Backend Evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Design of Interviews
 
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas. Al ser preguntas generales de uso, no se distinguirá de segmento objetivo.
+
+Preguntas principales:
+¿Qué te parece la Landing Page?
+¿Siente que es facil de usar?
+¿Podrías hacerme el favor de registrarte y mandar un mensaje?
+¿Qué te parece la aplicación web?
+¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
 
 ### 5.3.2. Recording of Interviews
 
+Link de entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i]
+
+### Entrevista 1
+
+![Entrevista 1](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%201%20Maycol.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Maria Delia | Martinez Meza | 20 | Lima, Lima |  0:00| 8:59 |
+
+Descripción: María, estudiante de tecnología médica, comenta que la página es muy llamativa visualmente, con colores e imágenes de buena calidad. Aprecia la segmentación clara de las propiedades por cuartos, tamaño, distrito, y número de pisos. María destaca la inclusión de propiedades de distintos departamentos de Perú, no solo Lima, lo que es beneficioso para estudiantes de provincia. Valora la seguridad ofrecida por los comentarios de otros usuarios y pregunta sobre el motivo del proyecto, que le explican está dirigido a estudiantes y familias jóvenes. Finalmente, María encuentra la página fácil de usar y bien estructurada para universitarios con poco tiempo y experiencia.
+
+![Entrevista 2](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%202.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Diego Sebastián | Valdivia Colque | 19 | Lima, Lima |  8:59|  |
+
+Descripción: Diego, quien representa al segmento objetivo del cliente, explora la landing page y encuentra que se enfoca en alquilar casas cerca de universidades, lo cual es útil para estudiantes que viven lejos. Diego navega por los diferentes apartados, como el inicio, sobre nosotros, contacto, y centro de ayuda. También crea una cuenta y prueba funcionalidades como la compra y renta de propiedades, la descripción detallada de propiedades, y el proceso de pago. Sugiere mejorar con botones de confirmación y agrega que la página cumple su objetivo de ser intuitiva y fácil de usar.
+
+![Entrevista 3](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%203%20anthony.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Samantha Allison | Balazar Saavedra | 23 | Lima, Lima |  08:38 |
+
+Descripción: Samantha, estudiante de enfermería, navega por la página y encuentra que es accesible y llamativa, con buena distribución de colores y secciones específicas. Registra una cuenta y explora las propiedades disponibles para compra y renta, notando que las descripciones detalladas son útiles. También prueba funcionalidades como el proceso de simulación de renta, añadir una propiedad, y reservar citas para ver propiedades. Samantha sugiere añadir más imágenes y la posibilidad de conversar directamente con el arrendatario, y concluye que recomendaría la página por su facilidad de uso y buena distribución.
+
+![Entrevista 4](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%204.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Alfredo | Medina | 23 | Lima, Lima |  26:24| 07:08 |
+
+Descripción: Alfredo revisa la página comenzando por la portada y opciones de casas disponibles. Navega por las opciones de registro, contacto, y exploración de propiedades en diferentes distritos. Realiza una simulación de registro y reserva de una propiedad. También prueba la funcionalidad de añadir una propiedad, ingresando detalles como el nombre, ubicación, características, y precio. El proceso finaliza con la carga de una imagen de la propiedad. El usuario concluye cerrando sesión y agradece por la oportunidad de interactuar con la aplicación.
 
 ### 5.3.3. Evaluations according to Heuristics
+
+
 
 
 ## 5.4. Video About-the-Product
