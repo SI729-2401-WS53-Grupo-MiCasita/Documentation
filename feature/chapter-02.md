@@ -163,7 +163,7 @@ Para mantener una ventaja competitiva y enfrentar eficazmente a nuestros competi
 * 
 ## 2.2. Entrevistas
 <div class="text-center"><b>Entrevista numero 1 </b> </div>
-<div class="text-center"><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EQ9EhYgSpqhKsW5GTPnftH4BqcFsAS9jLQfOW2DKPrUEmw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zPoeV0" target="_blank">Presione aquí para abrir la entrevista</a></div>
+<div class="text-center"><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EagoubvWZvxEkTKSiF5h2MQBWxHvlKJQF-wcgRPYt2B7Gw?e=2mcdcs" target="_blank">Presione aquí para abrir la entrevista</a></div>
 <br>
 <p>Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.</p>
 
@@ -227,7 +227,7 @@ Screenshot: ![image](https://hackmd.io/_uploads/HkOveLiWA.png)
 
 | Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
 |---------|-----------|------|----------|--------|----------|
-| Samantha Allison | Bazalar Saavedra | 18 | Puente Piedra | 4:36 | 5:41 |
+| Samantha Allison | Bazalar Saavedra | 18 | Puente Piedra | 4:36 | 7:28 |
 
 Descripción:
 
@@ -238,6 +238,19 @@ Entre los aspectos primordiales para Samantha se encuentra la adecuación del do
 Samantha mostró interés en la posibilidad de calificar las viviendas en la aplicación, sugiriendo un sistema similar al de "cinco estrellas" para evaluar la experiencia general de los arrendadores y sus propiedades.
 
 En resumen, Samantha enfatizó la importancia de que la aplicación "Mi Casita" satisfaga sus necesidades específicas y brinde una experiencia de búsqueda de vivienda completa y confiable, que incluya información detallada, referencias verificadas y la posibilidad de evaluar y compartir experiencias.
+
+Screenshot: ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/EntrevistaOpen.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|----------|--------|----------|
+| Alfredo | Medina | 23 | Comas | 4:36 | 4:51 |
+
+Descripción:
+Durante la entrevista Alfredo Medina nos hace saber que consideraría usar una aplicación como MiCasita si es que está presenta los features que otros medios similares que usa no tiene. 
+
+A su vez, nos hace saber que tiene en mente usar la aplicación si es que llega al lanzarse debido a la necesidad de vivienda que posee ahora mismo.
+
+En resumen, Alfredo Medina nos comentó lo que desea ver en la aplicación y nos explicó su situación y como le ayudaría una aplicación como Micasita que incluya información verificada y visitas a las viviendas.
 
 ## 2.2.3. Análisis de entrevistas
 Después de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en común que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
