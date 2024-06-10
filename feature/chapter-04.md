@@ -436,59 +436,108 @@ Los diagramas C4 ofrecen una visión clara y estructurada de la arquitectura de 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![MiCasita](https://res.cloudinary.com/dveil4prg/image/upload/v1714354419/MiCasita_1_u2vyg7.png)
+![Class Diagram](https://res.cloudinary.com/dveil4prg/image/upload/v1717297370/MiCasita_q9lycv.png)
+
 ### 4.7.2. Class Dictionary
 | Name | Description |
 |-----------------|------------|
 -- User -- 
-| 1.  userID |   Identificador único para cada usuario en el sistema. |
-| 2.  email  |  La dirección de correo electrónico del usuario. |
-| 4.  phoneNumber |  El número de teléfono del usuario. |
-| 5.  address | Dirección del usuario.  | 
-| 6.  fistName |  Nombre del usuario.  | 
-| 7.  lastName |  Apellido del usuario.  | 
--- Customer -- 
-| 1.  customerId |   Identificador único para cada cliente en el sistema. |
-| 2.  review  |  La opinión del cliente del departamento. |
--- Seller -- 
-| 1.  sellerId |  Identificador único para cada vendedor en el sistema. |
-| 2.  review | Opinión de los vendedores hacia los clientes.  | 
--- Property -- 
-| 1.  propertyId |  Identificador único para cada propiedad en el sistema.  | 
-| 2.  address |  Dirección de de la propiedad.   |
-| 3.  price |  precio en dolares de la propiedad.   | 
--- House -- 
-| 1.  houseId |  Identificador único para cada casa en el sistema.  | 
-| 2.  numberOfRooms |  número de habitaciones de la casa.   |
-| 3.  numberOfBathrooms |  número de baños de la casa.   | 
-| 4.  hasGarage |  valor que indica si hay garaje en la casa.   | 
-| 5.  hasGarden |  valor que indica si hay jardín en la casa.   | 
-| 6.  hasSwimming |  valor que indica si hay piscina en la casa.   |
--- Apartment -- 
-| 1.  apartmentId |  Identificador único para cada departamento en el sistema.  | 
-| 2.  numberOfRooms |  número de habitaciones en el apartamento.   |
-| 3.  numberOfBathrooms |  número de baños de la casa.   | 
-| 4.  hasBalcony |  valor que indica si hay balcón en en el departamento.   | 
-| 5.  hasParking |  valor que indica si hay estacionamiento en el departamento.   | 
-| 6.  hasGym |  valor que indica si gimnasio en el edificio donde esta el departamento.   |
--- Contract -- 
-| 1.  contractId |  Identificador único para cada contrato en el sistema.  | 
-| 2.  date |  fecha en la que se firma el contrato   |
-| 3.  terms |  terminos del contrato.   |
--- Review -- 
-| 1.  contractId |  Identificador único para cada contrato en el sistema.  | 
-| 2.  date |  fecha en la que se firma el contrato   |
-| 3.  terms |  terminos del contrato.   |
--- Transaction -- 
-| 1.  transactionId |  Identificador único para cada transacción en el sistema.  | 
-| 2.  date |  fecha de la transacción que se queda en los perfiles.   |
-| 3.  amount |  monto acordado para el contrato.   |
+| 1. ID | Identificador único para cada usuario en el sistema. |
+| 2. name  | Nombre del usuario. |
+| 4. email | La dirección de correo electrónico del usuario. |
+| 5. password | Contraseña que le permite al usuario entrar a la plataforma.  | 
+| 6. phone | Número de teléfono del usuario.  | 
+| 7. address | Dirección de la vivienda del usuario.  | 
+-- Seller --
+| 8. userID | Identificador único del en el sistema.  |
+| 9. sellerID | Identificador único del vendedor en el sistema.  |
+| 10. propertyID | Identificador de la viviendo en venta o alquiler, que le pertence al vendedor.  |
+-- Property --  
+| 11. propertyID | Identificador único para cada propiedad en el sistema.  |
+| 12. title | Titulo de la propiedad en el sistema.  |
+| 13. description | Descripción detallada de la propiedad. |
+| 14. price |  Precio monetario de la propiedad.  | 
+| 15. location | Locación de la propiedad. | 
+| 16. status | Estatus de la propiedad si esta en venta o alquiler. |
+| 17. type | Tipo de vivienda.  |
+| 18. size | Dimensiones del terreno propiedad.  |
+| 19. bedrooms | Número de las habitaciones de la propiedad.  |
+| 20. bathrooms | Número de los baños de la propiedad.  |
+| 21. garageSpaces | Valor que verificia si la propeidad tiene lugar de estacionamiento.  |
+| 22. yearBuilt | Año de la construcción de la propiedad.  |
+| 23. propertyImageID | Identificador de la imagen de la propiedad en el sistema.  |
+-- PropertyImage -- 
+| 24. ID | Identificador de la imagen de la propiedad en el sistema.  |
+| 25. img | Imagen de la propiedad en el sistema.  |
+-- Buy -- 
+| 26. ID | Identificador de la venta de la propiedad en el sistema.  |
+| 27. userID | Identificador del usuario del que esta ligado la venta de la propiedad.  |
+| 28. propertyID | Identificador de la propiedad.  |
+| 29. saleDate | Fecha de la venta de la propiedad.  |
+| 30. amount | Precio de la propiedad.  |
+| 31. status | Estado de venta de la propiedad.  |
+-- Rent -- 
+| 32. ID | Identificador de la renta de la propiedad en el sistema.  |
+| 33. userID | Identificador del usuario del que esta ligado el alquiler de la propiedad.  |
+| 34. propertyID | Identificador de la propiedad.  |
+| 35. initialDate | Fecha de inicio del alquiler de la propiedad.  |
+| 36. finishDate | Fecha de fin del alquiler de la propiedad.  |
+| 37. amount | Fecha de pago mensual de la propiedad.  |
+| 38. status | Estado de alquiler de la propiedad.  |
+-- Publication -- 
+| 39. publicationID | Identificador de la publicación en el sistema.  |
+| 40. propertyID | Identificador de la propiedad en el sistema.  |
+| 41. commentID | Identificador de los comentarios en el sistema.  |
+| 42. sellerID | Identificador del vendedor en el sistema.  |
+-- Appointment -- 
+| 43. appointmentsID | Identificador de la visita en el sistema.  |
+| 44. userID | Identificador de la propiedad en el sistema.  |
+| 45. propertyID | Identificador de la propiedad en el sistema.  |
+| 46. dateTime | Fecha de visita a la propiedad.  |
+-- Visit -- 
+| 47. visitID | Identificador de la visita a la propiedad en el sistema. |
+| 48. userID | Identificador del usuario en el sistema.  |
+| 49. propertyID | Identificador del usuario en el sistema.  |
+| 50. dateTime | Fecha de visita a la propiedad.  |
+| 51. status | Estado de la propiedad visitada.  |
+-- Comment -- 
+| 52. commentID | Identificador del comentario del usuario en el sistema. |
+| 53. userID | Identificador del usuario en el sistema. |
+| 54. propertyID | Identificador de la propiedad en el sistema. |
+| 55. text | Texto del comentario del usuario. |
+| 56. dateTime | Fecha del comentario. |
+-- Favorite -- 
+| 57. favoriteID | Identificador de la propiedad favorita del usuario en el sistema. |
+| 58. userID | Identificador del usuario en el sistema. |
+| 59. propertyID | Identificador de la propiedad en el sistema. |
+-- PaymentMethod -- 
+| 60. paymentMethodID | Identificador del metodo de pago que esta en el sistema. |
+| 61. userID | Identificador del usuario en el sistema. |
+| 62. cardNumber | Número de la tarjeta de pago en el sistema. |
+| 63. expiryDate | Fecha de vencimiento de la tarjeta de pago. |
+| 64. cardHolderName | Nombre del propietario de la tarjeta de pago. |
+| 65. billingAddress | Dirección de coobro donde figura la tarjeta de pago. |
+| 66. buyID | Identificador de compra de la propiedad. |
+| 67. rentID | Identificador de la renta que figura en el sistema. |
+-- Notification -- 
+| 68. notificationID | Identificador de la notificación que esta en el sistema. |
+| 69. userID | Identificador del usuario en el sistema. |
+| 70. message | Texto de la notificación. |
+| 71. dateTime | Fecha de la notificación. |
+| 72. status | Estado de la notifiación. |
+| 73. transactionID | Identificador de la transacción en el sistema. |
+| 74. publicationID | Identificador de la publicación en el sistema. |
+-- Message -- 
+| 75. messageID | Identificador del mensaje en el sistema. |
+| 76. userID | Identificador del usuario en el sistema. |
+| 77. propertyID | Identificador de la propiedad en el sistema. |
+| 78. content | Contenido del mensaje. |
+| 79. dateTime | Fecha del mensaje escrito por el usuario. |
 
+# Class Dictionary para "MiCasita"
 
-
--- Apartment -- 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![MiCasita-2024-04-09_12-35](https://res.cloudinary.com/dveil4prg/image/upload/v1714350053/MiCasita-2024-04-28_17-18_o8mthw.png)
+![MiCasita-2024-05-21_13-33](../assets/databasemicasita5.png)
 
