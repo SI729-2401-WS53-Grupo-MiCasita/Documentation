@@ -511,14 +511,14 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| Landing-page | dev | 7079360ade051c90fe9258d654ae73a4f9f582fa | Merge pull request #36 from SI729-2401-WS53-Grupo-MiCasita/dev | Merge pull request #36 from SI729-2401-WS53-Grupo-MiCasita/dev | Jun 4, 2024 |
-| Grupo02-Micasita-Angular-front | feat/calendar-appointment | ef714be93b8df19d0c079fa1841fe5548da6ac77 | fix: fixed publishing properties in create-estates | fix: fixed publishing properties in create-estates | Jun 4, 2024 | 
-| Grupo02-Micasita-Angular-front |feat/page-not-found| 14a742463d6e002214c0578b1a067bc63d4c6e80 | feat: updated db.json with new attributes and improved visuals for create-estates form and estate-details | feat: updated db.json with new attributes and improved visuals for create-estates form and estate-details | Jun 2, 2024 | 
-| Grupo02-Micasita-SpringBoot-backend | feature-communication | 1e093268f1f68c0d84d0ce49b326207c3d0bb025 | add Seller, Property and Appointment entities | add Seller, Property and Appointment entities | Commits on Jun 2, 2024 |
-| Grupo02-Micasita-SpringBoot-backend | feature-estates | 039ab53585fa595e411460acc8ddd534b621f25b | Merge pull request #11 from SI729-2401-WS53-Grupo-MiCasita/feature-estates | Merge pull request #11 from SI729-2401-WS53-Grupo-MiCasita/feature-estates | Jun 6, 2024 | 
-| Grupo02-Micasita-SpringBoot-backend | feature-estates | bb9e0946c11d2ab712cf7e52386467df81dd2102 | update feature-transaction | update feature-transaction | Jun 2, 2024 |
-| Grupo02-Micasita-SpringBoot-backend | feature-user | 3570b6cdd346a0b94efec4b2005e9b264f9186a0 | feat: add resources, transforms, and PropertyController | feat: add resources, transforms, and PropertyController | Jun 6, 2024 |
-| Grupo02-Micasita-SpringBoot-backend | feature-user | 1f63201c5c16a3ed1e68b0e15e6564399d1ea55c | feat: update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | feat: update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | Jun 8, 2024 |
+| Landing-page | dev | 7079360ade051c90fe9258d654ae73a4f9f582fa | Merge pull request #36 | from SI729-2401-WS53-Grupo-MiCasita/dev | Jun 4, 2024 |
+| Grupo02-Micasita-Angular-front | feat/calendar-appointment | ef714be93b8df19d0c079fa1841fe5548da6ac77 | fix | fixed publishing properties in create-estates | Jun 4, 2024 | 
+| Grupo02-Micasita-Angular-front |feat/page-not-found| 14a742463d6e002214c0578b1a067bc63d4c6e80 | feat: |updated db.json with new attributes and improved visuals for create-estates form and estate-details | Jun 2, 2024 | 
+| Grupo02-Micasita-SpringBoot-backend | feature-communication | 1e093268f1f68c0d84d0ce49b326207c3d0bb025 | add | Seller, Property and Appointment entities | Commits on Jun 2, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-estates | 039ab53585fa595e411460acc8ddd534b621f25b | Merge pull request #11  | from SI729-2401-WS53-Grupo-MiCasita/feature-estates | Jun 6, 2024 | 
+| Grupo02-Micasita-SpringBoot-backend | feature-estates | bb9e0946c11d2ab712cf7e52386467df81dd2102 | update feature | transaction | Jun 2, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-user | 3570b6cdd346a0b94efec4b2005e9b264f9186a0 | feat | add resources, transforms, and PropertyController | Jun 6, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-user | 1f63201c5c16a3ed1e68b0e15e6564399d1ea55c | feat | update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | Jun 8, 2024 |
 
 Link del repositorio Landing page: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Landing-page
 
@@ -530,12 +530,12 @@ Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita
 
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| Grupo02-MiCasita-testing / HU01 | 196b29e | Add files via upload | Add files via upload | May 14, 2024 |
-| Grupo02-MiCasita-testing / HU02 | 3c46002 | Add files via upload | Add files via upload | May 14, 2024 |
-| Grupo02-MiCasita-testing / HU03 | 3c46002 | Add files via upload | Add files via upload | May 14, 2024 |
-| Grupo02-MiCasita-testing / HU05 | c1eaf91 | Create HU05 - TP.feature | Create HU05 - TP.feature | Jun 9, 2024 |
-| Grupo02-MiCasita-testing / HU11 | 1e0ff69 | Update and rename HU11 - TP.feature to HU11 - TB2.featured | Update and rename HU11 - TP.feature to HU11 - TB2.feature | Jun 9, 2024 |
-| Grupo02-MiCasita-testing / HU18 | 3c46002 | Add files via upload | Add files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU01 | 196b29e | Add | files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU02 | 3c46002 | Add |files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU03 | 3c46002 | Add |files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU05 | c1eaf91 | Create |HU05 - TP.feature | Jun 9, 2024 |
+| Grupo02-MiCasita-testing / HU11 | 1e0ff69 | Update and rename HU11 | TP.feature to HU11 - TB2.feature | Jun 9, 2024 |
+| Grupo02-MiCasita-testing / HU18 | 3c46002 | Add |files via upload | May 14, 2024 |
 
 Link del repositorio del testing: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing 
 
@@ -635,7 +635,7 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ### 5.3.3. Evaluations according to Heuristics
 
-
+Documento de Evaluations according to Heuristics: https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi
 
 
 ## 5.4. Video About-the-Product
