@@ -285,17 +285,22 @@ En HomeHeavenly, estamos comprometidos a seguir innovando y mejorando continuame
 #### Nombre: Anthony Ramon Manco Cuellar (u201810954) 
 
 > Soy un estudiante de la carrera de ingeniería de software. Soy una persona responsable y empática. Me gusta investigar acerca de las novedades tecnológicas. Las tecnologías que maneja son C++, python, HTML, CSS y SQL.
+> 
 > <img src="https://hackmd.io/_uploads/rJTORM7y0.png" alt="perfil-image" width="250" height="250">
+
+---
 
 #### Nombre: Jose Daniel Mario Calderon Huaman (u202213076)
 
 > Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos.
+> <br>
 > <img src="https://hackmd.io/_uploads/r14Ou27J0.png" alt="perfil-image" width="250" height="250">
 
 ---
 #### Nombre: Jeremi Jose Antonio Fretel (u202219022)
 
 > Me llamo **Jeremi Jose Antonio Fretel**, tengo 19 años y soy un estudiante de la carrera Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente curso el 5er ciclo de mi carrera, me considero una persona disciplinada y responsable al realizar mis objetivos. He desarrollado mis trabajos en estos últimos años en c + + y he llevado cursos de HTML, CSS Y PYTHON.
+> 
 > ![perfil-image](https://hackmd.io/_uploads/SyVL3qEy0.png)
 
 
@@ -312,6 +317,7 @@ En HomeHeavenly, estamos comprometidos a seguir innovando y mejorando continuame
 
 <img src="https://media.discordapp.net/attachments/1014587353228120105/1246156382068146287/foto.png?ex=665b5d11&is=665a0b91&hm=e74c9e385d2c656af0605310f2b13a862d6224c18db34b7736c1e601653ca1e8&=&format=webp&quality=lossless&width=372&height=487" width="250" height="250">
 
+---
 
 ## 1.2. Solution Profile
 HomeHeavenly está comprometido a revolucionar la búsqueda y adquisición de propiedades inmobiliarias a través de su plataforma en línea innovadora. MiCasita ofrece una experiencia completa y personalizada para la búsqueda de viviendas, tanto para alquilar como para comprar, con el objetivo de hacer que el proceso sea fácil, seguro y eficiente para todos los usuarios. La plataforma se adapta a las necesidades individuales de cada usuario, proporcionando opciones de búsqueda personalizadas y avanzadas herramientas de filtrado y comparación. Priorizamos la facilidad y la seguridad en cada paso del proceso, ofreciendo una navegación intuitiva, acceso a información detallada sobre cada propiedad y orientación experta para tomar decisiones informadas. Nos esforzamos por garantizar que el proceso de búsqueda de vivienda sea transparente y satisfactorio para todos, ofreciendo una variedad de opciones relevantes para satisfacer las necesidades y preferencias de nuestros usuarios.
