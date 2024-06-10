@@ -507,22 +507,56 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 ![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
 
 
-` Falta incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general). `
-
 ## 5.2.3.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| Landing-page | dev | 7079360ade051c90fe9258d654ae73a4f9f582fa | Merge pull request #36 | from SI729-2401-WS53-Grupo-MiCasita/dev | Jun 4, 2024 |
+| Grupo02-Micasita-Angular-front | feat/calendar-appointment | ef714be93b8df19d0c079fa1841fe5548da6ac77 | fix | fixed publishing properties in create-estates | Jun 4, 2024 | 
+| Grupo02-Micasita-Angular-front |feat/page-not-found| 14a742463d6e002214c0578b1a067bc63d4c6e80 | feat: |updated db.json with new attributes and improved visuals for create-estates form and estate-details | Jun 2, 2024 | 
+| Grupo02-Micasita-SpringBoot-backend | feature-communication | 1e093268f1f68c0d84d0ce49b326207c3d0bb025 | add | Seller, Property and Appointment entities | Commits on Jun 2, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-estates | 039ab53585fa595e411460acc8ddd534b621f25b | Merge pull request #11  | from SI729-2401-WS53-Grupo-MiCasita/feature-estates | Jun 6, 2024 | 
+| Grupo02-Micasita-SpringBoot-backend | feature-estates | bb9e0946c11d2ab712cf7e52386467df81dd2102 | update feature | transaction | Jun 2, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-user | 3570b6cdd346a0b94efec4b2005e9b264f9186a0 | feat | add resources, transforms, and PropertyController | Jun 6, 2024 |
+| Grupo02-Micasita-SpringBoot-backend | feature-user | 1f63201c5c16a3ed1e68b0e15e6564399d1ea55c | feat | update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | Jun 8, 2024 |
 
+Link del repositorio Landing page: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Landing-page
+
+Link del repositorio Front-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front
+
+Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+| Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| Grupo02-MiCasita-testing / HU01 | 196b29e | Add | files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU02 | 3c46002 | Add |files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU03 | 3c46002 | Add |files via upload | May 14, 2024 |
+| Grupo02-MiCasita-testing / HU05 | c1eaf91 | Create |HU05 - TP.feature | Jun 9, 2024 |
+| Grupo02-MiCasita-testing / HU11 | 1e0ff69 | Update and rename HU11 | TP.feature to HU11 - TB2.feature | Jun 9, 2024 |
+| Grupo02-MiCasita-testing / HU18 | 3c46002 | Add |files via upload | May 14, 2024 |
+
+Link del repositorio del testing: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing 
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
+Video explicativo del avance del backend
+
+![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/c84cad2d-1856-497f-9d1c-04e38d64052e)
+
+LinK: https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8
+
+Commits en la rama developer donde se evidencia la participación del equipo.
+![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/aea811ff-2e6d-420e-8a5c-ee6be1266de7)
 
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-
+Evidencia del Back-end
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -601,7 +635,7 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ### 5.3.3. Evaluations according to Heuristics
 
-
+Documento de Evaluations according to Heuristics: https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi
 
 
 ## 5.4. Video About-the-Product
