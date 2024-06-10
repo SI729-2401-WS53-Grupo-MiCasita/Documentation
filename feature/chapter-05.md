@@ -545,7 +545,7 @@ Video explicativo del avance del backend
 
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/c84cad2d-1856-497f-9d1c-04e38d64052e)
 
-LinK: https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8
+[Link de vídeo explicativo](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8)
 
 Commits en la rama developer donde se evidencia la participación del equipo.
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/aea811ff-2e6d-420e-8a5c-ee6be1266de7)
@@ -597,7 +597,7 @@ Preguntas principales:
 
 ### 5.3.2. Recording of Interviews
 
-Link de entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i]
+[Link de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i)
 
 ### Entrevista 1
 
@@ -635,12 +635,12 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ### 5.3.3. Evaluations according to Heuristics
 
-Documento de Evaluations according to Heuristics: https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi
+[Documento de Evaluations according to Heuristics](https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi)
 
 
 ## 5.4. Video About-the-Product
 
-Enlace del Video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones 
 
