@@ -521,7 +521,9 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 | Grupo02-Micasita-SpringBoot-backend | feature-user | 1f63201c5c16a3ed1e68b0e15e6564399d1ea55c | feat: update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | feat: update attributes in CreatePropertyResource, PropertyResource, UpdatePropertyResource and transforms | Jun 8, 2024 |
 
 Link del repositorio Landing page: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Landing-page
+
 Link del repositorio Front-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front
+
 Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
