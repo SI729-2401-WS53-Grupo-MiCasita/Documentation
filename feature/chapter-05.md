@@ -160,7 +160,20 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 
 #### 5.2.1.1 Sprint Planning 1
 
-![image](https://hackmd.io/_uploads/ryEOGLT-R.png)
+| Sprint # | Sprint 1  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-04 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Abanto Vicente, Edery Renzo -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se implementó correctamente el landing page estático. | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia ópptima para los visitantes. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con inicio de sesión. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con el registro de usuarios están implementadas y hecho con las entrevistas de segmentos objetivos.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 20 Story Points | 
 
 #### 5.2.1.2 Sprint  Backlog 1
 | Epic / Story ID | Título | Descripción | 
@@ -171,9 +184,65 @@ La creación de la aplicación web estática se llevó a cabo con el objetivo de
 | US004 | Registro de Nuevos Usuarios | Como visitante, quiero poder registrarme como usuario para acceder a todas las funcionalidades de la aplicación. |  
 | US005 | Iniciar Sesión en la Aplicación | Como visitante, quiero poder acceder a mi cuenta de usuario existente para utilizar las funcionalidades de la aplicación. |  
 
-![image](https://hackmd.io/_uploads/ryjEEI6Z0.png)
-
-
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Página "Sobre"</td>
+    <td>T01</td>
+    <td>Registro de la página</td>
+    <td>2</td>
+    <td>Abanto Vicente, Edery Renzo</td>
+    <td>To - do</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Página de Contacto</td>
+    <td>T02</td>
+    <td>Creación de la página</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>To - do</td>
+<tr>
+    <td>US003</td>
+    <td>Centro de Ayuda</td>
+    <td>T04</td>
+    <td>Visualizar el Centro de Ayuda</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>To - do</td>
+ </tr>
+<tr>
+    <td>US004</td>
+    <td>Registro de Nuevos Usuarios</td>
+    <td>T05</td>
+    <td>Registro de Visitas</td>
+    <td>5</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>To - do</td>
+ </tr>
+<tr>
+    <td>US005</td>
+    <td>Iniciar Sesión en la Aplicación</td>
+    <td>T06</td>
+    <td>Inicio de sesión en la aplicación</td>
+    <td>3</td>
+    <td>Manco Cuellar, Anthony Ramon</td>
+    <td>To - do</td>
+ </tr>
+</table>
 
 ### 5.2.2. Sprint 2
 En este informe, se detallan las correcciones realizadas en el informe completo, así como los puntos a trabajar para la elaboración de la primera versión de la aplicación web front-end "Mi Casita".
@@ -183,8 +252,21 @@ Durante la revisión del informe completo, se identificaron áreas que requería
 Además de las correcciones realizadas, se han designado puntos específicos para trabajar en la elaboración de la primera versión de la aplicación web front-end "Mi Casita". Estos puntos incluyen aspectos como el diseño de la interfaz de usuario, la implementación de funcionalidades clave y la optimización del rendimiento del sitio web.
 
 #### 5.2.2.1. Sprint Planning 2.
-![image](https://hackmd.io/_uploads/HkfvB8T-R.png)
 
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-08 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Abanto Vicente, Edery Renzo -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se realizó las correcciones de la landing page correctamente | 
+| Sprint Planning Background | Durante la etapa anterior se desarrolló con complicaciones e ideas de los integrantes de manera coherente, y responsive. |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con angular para poder desarrollar correctamente lo aprendido en clase.|  
+| Sprint Velocity | Se establece un Velocity de 25 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
 
 #### 5.2.2.2. Sprint Backlog 2
 | Epic / Story ID | Título | Descripción | 
@@ -198,10 +280,65 @@ Además de las correcciones realizadas, se han designado puntos específicos par
 | US008        | Actualizar Usuario | Como administrador, quiero poder actualizar la información de un usuario existente en el sistema para corregir datos incorrectos o desactualizados.                                 | **Escenario 1:** Actualización exitosa de la información del usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** modifica la información del usuario <br> **Then** el sistema guarda los cambios y muestra un mensaje de éxito. <br><br> **Escenario 2:** Error en la actualización de la información del usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** intenta modificar la información del usuario con datos inválidos <br> **Then** el sistema muestra un mensaje de error y no guarda los cambios. | EPIC002                    |
 | US009        | Eliminar Usuario  | Como administrador, quiero poder eliminar un usuario del sistema si ya no es necesario o si incumple las políticas de la plataforma.                                                   | **Escenario 1:** Eliminación exitosa de usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** confirma la eliminación del usuario <br> **Then** el sistema elimina al usuario y muestra un mensaje de confirmación. <br><br> **Escenario 2:** Cancelar eliminación de usuario <br> **Given** el administrador está en la página de detalles del usuario <br> **When** cancela la eliminación del usuario <br> **Then** el sistema no elimina al usuario y vuelve a la página de detalles del usuario. | EPIC002
 
-![image](https://hackmd.io/_uploads/SkyKvIaWA.png)
-
-
-
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Crear Usuario</td>
+    <td>T01</td>
+    <td>Creación de Usuario</td>
+    <td>5</td>
+    <td>Abanto Vicente, Edery Renzo</td>
+    <td>in Process</td>
+ </tr>
+ <tr>
+    <td>US002</td>
+    <td>Agregar Propiedad</td>
+    <td>T02</td>
+    <td>Agregación de propiedad</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>in Process</td>
+<tr>
+    <td>US003</td>
+    <td>Búsqueda por filtros</td>
+    <td>T04</td>
+    <td>Búsqueda por filtros</td>
+    <td>5</td>
+    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>in Process</td>
+ </tr>
+<tr>
+    <td>US004</td>
+    <td>Reservar Cita para ver propiedad</td>
+    <td>T05</td>
+    <td>Reserva de citas</td>
+    <td>4</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>in Process</td>
+ </tr>
+<tr>
+    <td>US005</td>
+    <td>Ver mis citas reservadas</td>
+    <td>T06</td>
+    <td>Citas guardadas</td>
+    <td>4</td>
+    <td>Manco Cuellar, Anthony Ramon</td>
+    <td>in Process</td>
+ </tr>
+</table>
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 <table>
@@ -265,6 +402,211 @@ Por último, para mostrar nuestro progreso, desplegamos el proyecto en la rama m
 A lo largo del primer sprint, todos los integrantes del equipo de HomeHeavenly estuvimos comprometidos y colaboramos de manera continua en la realización de las tareas asignadas. Cada uno de nosotros demostró el avance de sus respectivas labores mediante la presentación de sus avances individuales.
 ![image](https://hackmd.io/_uploads/H14cUtFe0.png)
 
+# Sprint 3
+## 5.2.3. Sprint Planning 3
+En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
+
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-05-30 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Maycol Jhordan Rojas Velasquez | 
+|  Attendees (to planning meeting) | -Cantoral Sedamano, Alexander ALberto -Calderón Huamán, Jose Daniel Mario -Antonio Fretle, Jeremi Jose -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se realizó las correcciones necesarios para el front-end de la aplicación web | 
+| Sprint Planning Background | Luego de la reestructuración del equipo se repartiaron las tareas apropiadas para cada miembro relacionado con el backend |
+| Sprint Goal & User Stories | 
+| Sprint 1 Goal | Desarrolar la funcionalidad de la página web con relacionada con el back-end utilizando Spring realizando el código con ayuda del diagrama de Base de datos.|  
+| Sprint Velocity | Se establece un Velocity de 40 Story Points para este Sprint. | 
+| Sum of Story Points | 40 Story Points | 
+
+## 5.2.3.2. Sprint Backlog 3
+
+Este Sprint se centra en la implementación de una nueva vista para nuestra página web y apliaciones web, diseñada para mejorar la experiencia del usuario mediante una interfaz más visual y moderna. El objetivo principal es proporcionar a nuestros usuarios una forma más intuitiva y atractiva de interactuar con nuestra plataforma, haciendo que la navegación y el acceso a las funcionalidades sean más fluidos y menos complicados.Además de la nueva vista, el Sprint también incluirá la incorporación de funciones básicas esenciales que faciliten el uso de la plataforma para los usuarios nuevos y existentes. Estas funciones estarán diseñadas para ser simples y directas, permitiendo a los usuarios realizar tareas comunes de manera rápida y eficiente.La implementación de esta nueva vista y funcionalidades básicas es un paso crucial para mejorar la usabilidad y la retención de usuarios, asegurando que nuestra plataforma permanezca competitiva y relevante en el mercado. Este Sprint representará un hito importante en el camino hacia la mejora continua de nuestra oferta digital, buscando siempre ofrecer la mejor experiencia posible a nuestros usuarios.
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US006</td>
+    <td>Iniciar Sesión en la aplicación</td>
+    <td>T01</td>
+    <td>Inicio de la sesión en la aplicación</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US011</td>
+    <td>Agregar Propiedad</td>
+    <td>T02</td>
+    <td>Agregación de propiedad</td>
+    <td>5</td>
+    <td>Calderón Huamán, Jose Daniel Mario</td>
+    <td>Done</td>
+<tr>
+    <td>US018</td>
+    <td>Ver Disponibilidad de Citas</td>
+    <td>T03</td>
+    <td>Citas disponibles</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+<tr>
+    <td>US019</td>
+    <td>Reservar Cita para ver propiedad</td>
+    <td>T04</td>
+    <td>Reserva de citas</td>
+    <td>4</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+<tr>
+    <td>US020</td>
+    <td>Ver mis citas reservadas</td>
+    <td>T05</td>
+    <td>Ver citas reservadas</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US023</td>
+    <td>Gestión de Métodos de Pago</td>
+    <td>T06</td>
+    <td>Métodos de pago</td>
+    <td>5</td>
+    <td>Antonio Fretle, Jeremi Jose</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US024</td>
+    <td>Página no encontrada 404</td>
+    <td>T07</td>
+    <td>Página no encontrada</td>
+    <td>3</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+</table>
+
+![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
+
+
+` Falta incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general). `
+
+## 5.2.3.3. Development Evidence for Sprint Review
+
+
+
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Landing Page evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Landingpageopen.PNG)
+Link de la Landing Page desplegada: https://micasita-landingpage.netlify.app/ 
+Frontend Evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20webopen.PNG)
+Link del Frontend desplegado: https://micasita-frontend.web.app/register
+Backend Evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
+
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+LandinPage Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20lp.PNG)
+Frontend Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20front.PNG)
+Backend Insights:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back.PNG)
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Design of Interviews
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas. Al ser preguntas generales de uso, no se distinguirá de segmento objetivo.
+
+Preguntas principales:
+¿Qué te parece la Landing Page?
+¿Siente que es facil de usar?
+¿Podrías hacerme el favor de registrarte y mandar un mensaje?
+¿Qué te parece la aplicación web?
+¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+
+### 5.3.2. Recording of Interviews
+
+Link de entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i]
+
+### Entrevista 1
+
+![Entrevista 1](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%201%20Maycol.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Maria Delia | Martinez Meza | 20 | Lima, Lima |  0:00| 8:59 |
+
+Descripción: María, estudiante de tecnología médica, comenta que la página es muy llamativa visualmente, con colores e imágenes de buena calidad. Aprecia la segmentación clara de las propiedades por cuartos, tamaño, distrito, y número de pisos. María destaca la inclusión de propiedades de distintos departamentos de Perú, no solo Lima, lo que es beneficioso para estudiantes de provincia. Valora la seguridad ofrecida por los comentarios de otros usuarios y pregunta sobre el motivo del proyecto, que le explican está dirigido a estudiantes y familias jóvenes. Finalmente, María encuentra la página fácil de usar y bien estructurada para universitarios con poco tiempo y experiencia.
+
+![Entrevista 2](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%202.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Diego Sebastián | Valdivia Colque | 19 | Lima, Lima |  8:59|  |
+
+Descripción: Diego, quien representa al segmento objetivo del cliente, explora la landing page y encuentra que se enfoca en alquilar casas cerca de universidades, lo cual es útil para estudiantes que viven lejos. Diego navega por los diferentes apartados, como el inicio, sobre nosotros, contacto, y centro de ayuda. También crea una cuenta y prueba funcionalidades como la compra y renta de propiedades, la descripción detallada de propiedades, y el proceso de pago. Sugiere mejorar con botones de confirmación y agrega que la página cumple su objetivo de ser intuitiva y fácil de usar.
+
+![Entrevista 3](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%203%20anthony.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Samantha Allison | Balazar Saavedra | 23 | Lima, Lima |  08:38 |
+
+Descripción: Samantha, estudiante de enfermería, navega por la página y encuentra que es accesible y llamativa, con buena distribución de colores y secciones específicas. Registra una cuenta y explora las propiedades disponibles para compra y renta, notando que las descripciones detalladas son útiles. También prueba funcionalidades como el proceso de simulación de renta, añadir una propiedad, y reservar citas para ver propiedades. Samantha sugiere añadir más imágenes y la posibilidad de conversar directamente con el arrendatario, y concluye que recomendaría la página por su facilidad de uso y buena distribución.
+
+![Entrevista 4](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Entrevista%204.PNG)
+
+| Nombres | Apellidos | Edad | Distrito | Inicio | Duración |
+|---------|-----------|------|--------------|----------|--------|
+| Alfredo | Medina | 23 | Lima, Lima |  26:24| 07:08 |
+
+Descripción: Alfredo revisa la página comenzando por la portada y opciones de casas disponibles. Navega por las opciones de registro, contacto, y exploración de propiedades en diferentes distritos. Realiza una simulación de registro y reserva de una propiedad. También prueba la funcionalidad de añadir una propiedad, ingresando detalles como el nombre, ubicación, características, y precio. El proceso finaliza con la carga de una imagen de la propiedad. El usuario concluye cerrando sesión y agradece por la oportunidad de interactuar con la aplicación.
+
+### 5.3.3. Evaluations according to Heuristics
+
+
+
+
+## 5.4. Video About-the-Product
+
+Enlace del Video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones 
 
