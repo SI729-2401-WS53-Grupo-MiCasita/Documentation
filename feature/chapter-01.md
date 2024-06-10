@@ -315,7 +315,7 @@ En HomeHeavenly, estamos comprometidos a seguir innovando y mejorando continuame
 #### Nombre: Alexander Alberto Cantoral Sedamano
 > Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
 
-<img src="https://media.discordapp.net/attachments/1014587353228120105/1246156382068146287/foto.png?ex=665b5d11&is=665a0b91&hm=e74c9e385d2c656af0605310f2b13a862d6224c18db34b7736c1e601653ca1e8&=&format=webp&quality=lossless&width=372&height=487" width="250" height="250">
+<img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg" width="250" height="250">
 
 ---
 
