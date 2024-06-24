@@ -584,10 +584,34 @@ Backend Insights:
 ### 5.2.4 Sprint 4
 
 #### 5.2.4.1. Sprint Planning 4
+En esta sección se verán los detalles faltantes pospuestos del anterior sprint junto con el deploy del backend, unión del frontend con el backend y adición de tipos de administración.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-03-24 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Prepared by | Maycol Jhordan Rojas Velasquez | 
+| Attendees (to planning meeting) | -Cantoral Sedamano, Alexander Alberto <br> -Calderón Huamán, Jose Daniel Mario <br> -Antonio Fretle, Jeremi Jose <br> -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se completaron las funcionalidades del back-end incluyendo la gestión de métodos de pago, citas reservadas y la adición de nuevas propiedades. |
+| Sprint Planning Background | En este sprint, se enfoca en finalizar las funcionalidades pendientes del back-end y asegurarse de que las interacciones entre el front-end y el back-end funcionen correctamente. |
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Completar las funcionalidades de la página web relacionadas con el back-end, y asegurar la integración y el correcto funcionamiento de las mismas. |  
+| Sprint Velocity | Se establece un Velocity de 45 Story Points para este Sprint. | 
+| Sum of Story Points | 45 Story Points | 
 
 #### 5.2.4.2. Sprint Backlog 4
 
+En este Sprint nos enfocaremos en la optimización de la carga y rendimiento de la nueva vista implementada en el Sprint anterior, así como en la corrección de posibles errores o ajustes derivados de la retroalimentación inicial de los usuarios. Además, exploraremos la integración de características avanzadas que enriquezcan la experiencia del usuario, tales como notificaciones en tiempo real y personalización de contenido según preferencias.
+
+El objetivo principal es consolidar la estabilidad y eficiencia de la nueva vista y funcionalidades, asegurando que cada interacción del usuario sea fluida y satisfactoria. También planeamos realizar pruebas exhaustivas de rendimiento y usabilidad para garantizar que nuestra plataforma cumpla con los estándares más altos de calidad.
+
+Este Sprint marcará una fase crítica en la evolución de nuestra plataforma digital, enfocándonos no solo en funcionalidad avanzada, sino también en la fiabilidad y escalabilidad de nuestras soluciones tecnológicas.
+
 #### 5.2.4.3. Development Evidence for Sprint Review
+
+
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
