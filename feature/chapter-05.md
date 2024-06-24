@@ -340,7 +340,7 @@ Además de las correcciones realizadas, se han designado puntos específicos par
  </tr>
 </table>
 
-#### 5.2.1.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review
 <table>
     <thead>
         <tr>
@@ -379,18 +379,19 @@ Además de las correcciones realizadas, se han designado puntos específicos par
     </tbody>
 </table>
 
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
 Durante este primer sprint, hemos implementado todas las funcionalidades definidas en nuestro Sprint Backlog, asegurándonos de cumplir con sus criterios de aceptación correspondientes.\
-#### 5.2.1.5 Execution Evidence for Sprint Review
+#### 5.2.2.5 Execution Evidence for Sprint Review
 Durante el primer sprint, el equipo de desarrollo de HomeHeavenly completó la creación de la Landing Page para nuestro proyecto MiCasita. En nuestro sitio web, los usuarios pueden acceder a información sobre las casas en alquiler, conocernos mejor, contactarnos, comentarios y encontrar respuestas a las preguntas más frecuentes.\
 <img src="../assets/im1.png"/>
 <img src="../assets/im2.png"/>
 <img src="../assets/im3.png"/>
 <img src="../assets/im4.png"/>
 <img src="../assets/im5.png"/>
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 Hasta ahora, no disponemos de documentación de nuestros servicios, ya que este primer sprint se ha centrado en el desarrollo de la Landing Page.
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 Para empezar a trabajar en la implementación de la Landing Page, primero configuramos el repositorio en Github, creando las ramas principales necesarias: main, developer y features.\
 ![image](https://hackmd.io/_uploads/ByJqBFYxC.png)
 Una vez establecido, cada miembro del equipo cargó su parte del proyecto al repositorio, colaborando de manera eficiente en el desarrollo.
@@ -398,12 +399,12 @@ Una vez establecido, cada miembro del equipo cargó su parte del proyecto al rep
 Por último, para mostrar nuestro progreso, desplegamos el proyecto en la rama main utilizando la herramienta GitHub Pages.
 ![image](https://hackmd.io/_uploads/H1uf8ttgR.png)
 
-#### 5.2.1.8 Team Collaboration Insights during Sprint
+#### 5.2.2.8 Team Collaboration Insights during Sprint
 A lo largo del primer sprint, todos los integrantes del equipo de HomeHeavenly estuvimos comprometidos y colaboramos de manera continua en la realización de las tareas asignadas. Cada uno de nosotros demostró el avance de sus respectivas labores mediante la presentación de sus avances individuales.
 ![image](https://hackmd.io/_uploads/H14cUtFe0.png)
 
-# Sprint 3
-## 5.2.3. Sprint Planning 3
+### 5.2.3 Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
 
 | Sprint # | Sprint 3  | 
@@ -421,7 +422,7 @@ En esta sección, se detalla el desarrollo de una nueva versión de nuestra apli
 | Sprint Velocity | Se establece un Velocity de 40 Story Points para este Sprint. | 
 | Sum of Story Points | 40 Story Points | 
 
-## 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.2. Sprint Backlog 3
 
 Este Sprint se centra en la implementación de una nueva vista para nuestra página web y apliaciones web, diseñada para mejorar la experiencia del usuario mediante una interfaz más visual y moderna. El objetivo principal es proporcionar a nuestros usuarios una forma más intuitiva y atractiva de interactuar con nuestra plataforma, haciendo que la navegación y el acceso a las funcionalidades sean más fluidos y menos complicados.Además de la nueva vista, el Sprint también incluirá la incorporación de funciones básicas esenciales que faciliten el uso de la plataforma para los usuarios nuevos y existentes. Estas funciones estarán diseñadas para ser simples y directas, permitiendo a los usuarios realizar tareas comunes de manera rápida y eficiente.La implementación de esta nueva vista y funcionalidades básicas es un paso crucial para mejorar la usabilidad y la retención de usuarios, asegurando que nuestra plataforma permanezca competitiva y relevante en el mercado. Este Sprint representará un hito importante en el camino hacia la mejora continua de nuestra oferta digital, buscando siempre ofrecer la mejor experiencia posible a nuestros usuarios.
 
@@ -507,7 +508,7 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 ![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
 
 
-## 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
@@ -526,7 +527,7 @@ Link del repositorio Front-end: https://github.com/SI729-2401-WS53-Grupo-MiCasit
 
 Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
-## 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
@@ -539,26 +540,26 @@ Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita
 
 Link del repositorio del testing: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing 
 
-## 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 Video explicativo del avance del backend
 
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/c84cad2d-1856-497f-9d1c-04e38d64052e)
 
-LinK: https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8
+[Link de vídeo explicativo](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8)
 
 Commits en la rama developer donde se evidencia la participación del equipo.
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/aea811ff-2e6d-420e-8a5c-ee6be1266de7)
 
 
-## 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Evidencia del Back-end
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
-## 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Landing Page evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Landingpageopen.PNG)
@@ -572,7 +573,7 @@ Backend Evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
 
-## 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 LandinPage Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20lp.PNG)
 Frontend Insights:
@@ -580,6 +581,125 @@ Frontend Insights:
 Backend Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back.PNG)
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+En esta sección se verán los detalles faltantes pospuestos del anterior sprint junto con el deploy del backend, unión del frontend con el backend y adición de tipos de administración.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-03-24 | 
+| Time |  10:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Prepared by | Maycol Jhordan Rojas Velasquez | 
+| Attendees (to planning meeting) | -Cantoral Sedamano, Alexander Alberto <br> -Calderón Huamán, Jose Daniel Mario <br> -Antonio Fretle, Jeremi Jose <br> -Manco Cuellar, Anthony Ramon | 
+| Sprint n-1 Review Summary | Se completaron las funcionalidades del back-end incluyendo la gestión de métodos de pago, citas reservadas y la adición de nuevas propiedades. |
+| Sprint Planning Background | En este sprint, se enfoca en finalizar las funcionalidades pendientes del back-end y asegurarse de que las interacciones entre el front-end y el back-end funcionen correctamente. |
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Completar las funcionalidades de la página web relacionadas con el back-end, y asegurar la integración y el correcto funcionamiento de las mismas. |  
+| Sprint Velocity | Se establece un Velocity de 45 Story Points para este Sprint. | 
+| Sum of Story Points | 45 Story Points | 
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En este Sprint nos enfocaremos en la optimización de la carga y rendimiento de la nueva vista implementada en el Sprint anterior, así como en la corrección de posibles errores o ajustes derivados de la retroalimentación inicial de los usuarios. Además, exploraremos la integración de características avanzadas que enriquezcan la experiencia del usuario, tales como notificaciones en tiempo real y personalización de contenido según preferencias.
+
+El objetivo principal es la conexión entre el backend y frontend.
+
+| Epic / Story ID | Título | Descripción | 
+|-----------------|--------|-------------|
+| US021 | Cancelar Cita Reservada | Como usuario, quiero poder cancelar una cita que he reservado para ver una propiedad si ya no puedo asistir, para liberar ese horario para otros usuarios.|
+| TS14 | Cancelar Cita Reservada | Como developer, voy a desarrollar una Api que permita que se puedan cancelar las reservas de la aplicación web |
+|TS15 | Inicio de sesión como administrador | Como developer, quiero poder iniciar sesión en la aplicación para gestionar las funcionalidades de administración | 
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Cancelar Cita Reservada</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS14</td>
+    <td>Cancelar Cita Reservada</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+<tr>
+    <td>TS15</td>
+    <td>Inicio de sesión como administrador</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ </table>
+
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/sprint4.PNG)
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| SpringBoot-backend | dev|c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
+| SpringBoot-backend | dev|c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
+
+[Link de repositorio Front-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front)
+
+[Link de repositorio Back-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend)
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+| Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| feature/tf-Alexander-Cantoral| b0e90b3 | Sprint 4| |24/06/2024 |
+
+[Link de repositorio testing](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing)
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección se adjuntará evidencia de la revisión de lo desarrollado para este sprint:
+
+[Link del vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Ed_5rOkASMZFvs5p-_CWweoBQJACW-4EbOOjzS4lVN8Ngg?e=l3Txac&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se adjuntará evidencia del desarrollo para este sprint:
+
+Evidencia de los endpoints realizados:
+
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%201.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%202.PNG)
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+En esta sección se dará evidencia del deploy de la aplicación web completa:
+
+[Link de la Landing Page para user experience](https://micasita-landingpage.netlify.app/)
+[Link de la Aplicación Web](https://micasita-frontend.web.app/register)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para este sprint seguimos usando nuestras ramas para cada miembro y un merge a la rama developer para concretar el código de cada uno 
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab1.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab2.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/xdddd.PNG)
+
+A su vez, luego de ya tener el avance del código de cada uno en la rama developer se hacía reuniones usando la aplicación discord para el deploy y revisión de detalles.
+
+También hubo reuniones presenciales luego de clase para coordinar los quehaceres semanales del proyecto.
 
 ## 5.3. Validation Interviews
 
@@ -597,7 +717,7 @@ Preguntas principales:
 
 ### 5.3.2. Recording of Interviews
 
-Link de entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i]
+[Link de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i)
 
 ### Entrevista 1
 
@@ -635,12 +755,12 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ### 5.3.3. Evaluations according to Heuristics
 
-Documento de Evaluations according to Heuristics: https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi
+[Documento de Evaluations according to Heuristics](https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi)
 
 
 ## 5.4. Video About-the-Product
 
-Enlace del Video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones 
 
