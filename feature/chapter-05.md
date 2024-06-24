@@ -340,7 +340,7 @@ Además de las correcciones realizadas, se han designado puntos específicos par
  </tr>
 </table>
 
-#### 5.2.1.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review
 <table>
     <thead>
         <tr>
@@ -379,18 +379,19 @@ Además de las correcciones realizadas, se han designado puntos específicos par
     </tbody>
 </table>
 
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
 Durante este primer sprint, hemos implementado todas las funcionalidades definidas en nuestro Sprint Backlog, asegurándonos de cumplir con sus criterios de aceptación correspondientes.\
-#### 5.2.1.5 Execution Evidence for Sprint Review
+#### 5.2.2.5 Execution Evidence for Sprint Review
 Durante el primer sprint, el equipo de desarrollo de HomeHeavenly completó la creación de la Landing Page para nuestro proyecto MiCasita. En nuestro sitio web, los usuarios pueden acceder a información sobre las casas en alquiler, conocernos mejor, contactarnos, comentarios y encontrar respuestas a las preguntas más frecuentes.\
 <img src="../assets/im1.png"/>
 <img src="../assets/im2.png"/>
 <img src="../assets/im3.png"/>
 <img src="../assets/im4.png"/>
 <img src="../assets/im5.png"/>
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 Hasta ahora, no disponemos de documentación de nuestros servicios, ya que este primer sprint se ha centrado en el desarrollo de la Landing Page.
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 Para empezar a trabajar en la implementación de la Landing Page, primero configuramos el repositorio en Github, creando las ramas principales necesarias: main, developer y features.\
 ![image](https://hackmd.io/_uploads/ByJqBFYxC.png)
 Una vez establecido, cada miembro del equipo cargó su parte del proyecto al repositorio, colaborando de manera eficiente en el desarrollo.
@@ -398,12 +399,12 @@ Una vez establecido, cada miembro del equipo cargó su parte del proyecto al rep
 Por último, para mostrar nuestro progreso, desplegamos el proyecto en la rama main utilizando la herramienta GitHub Pages.
 ![image](https://hackmd.io/_uploads/H1uf8ttgR.png)
 
-#### 5.2.1.8 Team Collaboration Insights during Sprint
+#### 5.2.2.8 Team Collaboration Insights during Sprint
 A lo largo del primer sprint, todos los integrantes del equipo de HomeHeavenly estuvimos comprometidos y colaboramos de manera continua en la realización de las tareas asignadas. Cada uno de nosotros demostró el avance de sus respectivas labores mediante la presentación de sus avances individuales.
 ![image](https://hackmd.io/_uploads/H14cUtFe0.png)
 
-# Sprint 3
-## 5.2.3. Sprint Planning 3
+### 5.2.3 Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
 
 | Sprint # | Sprint 3  | 
@@ -421,7 +422,7 @@ En esta sección, se detalla el desarrollo de una nueva versión de nuestra apli
 | Sprint Velocity | Se establece un Velocity de 40 Story Points para este Sprint. | 
 | Sum of Story Points | 40 Story Points | 
 
-## 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.2. Sprint Backlog 3
 
 Este Sprint se centra en la implementación de una nueva vista para nuestra página web y apliaciones web, diseñada para mejorar la experiencia del usuario mediante una interfaz más visual y moderna. El objetivo principal es proporcionar a nuestros usuarios una forma más intuitiva y atractiva de interactuar con nuestra plataforma, haciendo que la navegación y el acceso a las funcionalidades sean más fluidos y menos complicados.Además de la nueva vista, el Sprint también incluirá la incorporación de funciones básicas esenciales que faciliten el uso de la plataforma para los usuarios nuevos y existentes. Estas funciones estarán diseñadas para ser simples y directas, permitiendo a los usuarios realizar tareas comunes de manera rápida y eficiente.La implementación de esta nueva vista y funcionalidades básicas es un paso crucial para mejorar la usabilidad y la retención de usuarios, asegurando que nuestra plataforma permanezca competitiva y relevante en el mercado. Este Sprint representará un hito importante en el camino hacia la mejora continua de nuestra oferta digital, buscando siempre ofrecer la mejor experiencia posible a nuestros usuarios.
 
@@ -507,7 +508,7 @@ Este Sprint se centra en la implementación de una nueva vista para nuestra pág
 ![image](https://hackmd.io/_uploads/SJZfYn8XC.png)
 
 
-## 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.3. Development Evidence for Sprint Review
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
@@ -526,7 +527,7 @@ Link del repositorio Front-end: https://github.com/SI729-2401-WS53-Grupo-MiCasit
 
 Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
-## 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
@@ -539,7 +540,7 @@ Link del repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita
 
 Link del repositorio del testing: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing 
 
-## 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 Video explicativo del avance del backend
 
@@ -551,14 +552,14 @@ Commits en la rama developer donde se evidencia la participación del equipo.
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/aea811ff-2e6d-420e-8a5c-ee6be1266de7)
 
 
-## 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Evidencia del Back-end
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
-## 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Landing Page evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Landingpageopen.PNG)
@@ -572,7 +573,7 @@ Backend Evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
 
 
-## 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 LandinPage Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20lp.PNG)
 Frontend Insights:
@@ -580,6 +581,23 @@ Frontend Insights:
 Backend Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back.PNG)
 
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+#### 5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
 
