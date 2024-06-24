@@ -605,23 +605,101 @@ En esta sección se verán los detalles faltantes pospuestos del anterior sprint
 
 En este Sprint nos enfocaremos en la optimización de la carga y rendimiento de la nueva vista implementada en el Sprint anterior, así como en la corrección de posibles errores o ajustes derivados de la retroalimentación inicial de los usuarios. Además, exploraremos la integración de características avanzadas que enriquezcan la experiencia del usuario, tales como notificaciones en tiempo real y personalización de contenido según preferencias.
 
-El objetivo principal es consolidar la estabilidad y eficiencia de la nueva vista y funcionalidades, asegurando que cada interacción del usuario sea fluida y satisfactoria. También planeamos realizar pruebas exhaustivas de rendimiento y usabilidad para garantizar que nuestra plataforma cumpla con los estándares más altos de calidad.
+El objetivo principal es la conexión entre el backend y frontend.
 
-Este Sprint marcará una fase crítica en la evolución de nuestra plataforma digital, enfocándonos no solo en funcionalidad avanzada, sino también en la fiabilidad y escalabilidad de nuestras soluciones tecnológicas.
+| Epic / Story ID | Título | Descripción | 
+|-----------------|--------|-------------|
+| US021 | Cancelar Cita Reservada | Como usuario, quiero poder cancelar una cita que he reservado para ver una propiedad si ya no puedo asistir, para liberar ese horario para otros usuarios.|
+| TS14 | Cancelar Cita Reservada | Como developer, voy a desarrollar una Api que permita que se puedan cancelar las reservas de la aplicación web |
+|TS15 | Inicio de sesión como administrador | Como developer, quiero poder iniciar sesión en la aplicación para gestionar las funcionalidades de administración | 
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US21</td>
+    <td>Cancelar Cita Reservada</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS14</td>
+    <td>Cancelar Cita Reservada</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+<tr>
+    <td>TS15</td>
+    <td>Inicio de sesión como administrador</td>
+    <td>5</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+ </tr>
+ </table>
+
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/sprint4.PNG)
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| SpringBoot-backend | dev|c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
+| SpringBoot-backend | dev|c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
 
+[Link de repositorio Front-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front)
+
+[Link de repositorio Back-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend)
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+| Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| feature/tf-Alexander-Cantoral| b0e90b3 | Sprint 4| |24/06/2024 |
+
+[Link de repositorio testing](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing)
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección se adjuntará evidencia de la revisión de lo desarrollado para este sprint:
+
+[Link del vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Ed_5rOkASMZFvs5p-_CWweoBQJACW-4EbOOjzS4lVN8Ngg?e=l3Txac&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+En esta sección se adjuntará evidencia del desarrollo para este sprint:
+
+Evidencia de los endpoints realizados:
+
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%201.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%202.PNG)
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+En esta sección se dará evidencia del deploy de la aplicación web completa:
+
+[Link de la Landing Page para user experience](https://micasita-landingpage.netlify.app/)
+[Link de la Aplicación Web](https://micasita-frontend.web.app/register)
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para este sprint seguimos usando nuestras ramas para cada miembro y un merge a la rama developer para concretar el código de cada uno 
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab1.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab2.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/xdddd.PNG)
+
+A su vez, luego de ya tener el avance del código de cada uno en la rama developer se hacía reuniones usando la aplicación discord para el deploy y revisión de detalles.
+
+También hubo reuniones presenciales luego de clase para coordinar los quehaceres semanales del proyecto.
 
 ## 5.3. Validation Interviews
 
