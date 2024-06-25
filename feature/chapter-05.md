@@ -550,7 +550,7 @@ Video explicativo del avance del backend
 
 Link del repositorio de los webservices: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
-Link de vídeo explicativo del backend:"https://acortar.link/5FCTLg"
+Link de vídeo explicativo del backend: https://acortar.link/5FCTLg" 
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -905,13 +905,13 @@ Recomendación: Implementar la conexión con el backend para que el usuario pued
 
 ## 5.4. Video About-the-Product
 
-Video about the product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+Video about the product-Sprint 3: https://acortar.link/683KXS
 
 ## Conclusiones 
 
 En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente entre los tres miembros del equipo. Todos contribuyeron de manera colaborativa, codificando dentro de los límites del contexto de manera satisfactoria.
 
-Video about the team: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EZIeY6jngL1AgY_RrBMWGO0BY9tXiCc5jbRLmZhA7b9GQA?e=aZkwQT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+Video about the team: https://acortar.link/ipCnC6
 
 ## Bibliografía
 
