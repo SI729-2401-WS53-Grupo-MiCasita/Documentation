@@ -1,4 +1,3 @@
-
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
@@ -542,14 +541,15 @@ Link del repositorio del testing: https://github.com/SI729-2401-WS53-Grupo-MiCas
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+Para este sprint se consolido el avance del frontend, LandingPage y la primera versión del backend de la aplicación web.
+
 Video explicativo del avance del backend
 
 ![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/c84cad2d-1856-497f-9d1c-04e38d64052e)
 
-[Link de vídeo explicativo](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8)
+Link del repositorio de los webservices: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
-Commits en la rama developer donde se evidencia la participación del equipo.
-![image](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Documentation/assets/66744988/aea811ff-2e6d-420e-8a5c-ee6be1266de7)
+Link de vídeo explicativo del backend: https://acortar.link/5FCTLg" 
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -566,20 +566,20 @@ Landing Page evidence:
 Link de la Landing Page desplegada: https://micasita-landingpage.netlify.app/ 
 Frontend Evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20webopen.PNG)
-Link del Frontend desplegado: https://micasita-frontend.web.app/register
-Backend Evidence:
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back1.png)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back2.png)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/back-3.png)
+Link del Frontend desplegado: https://micasita-frontend.web.app
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En este apartado se adjuntarán las evidencias de la colaboración durante el sprint
+
 LandinPage Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20lp.PNG)
 Frontend Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20front.PNG)
 Backend Insights:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back.PNG)
+
 
 ### 5.2.4 Sprint 4
 
@@ -653,53 +653,75 @@ El objetivo principal es la conexión entre el backend y frontend.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| SpringBoot-backend | dev|c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
-| SpringBoot-backend | dev|c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
-
-[Link de repositorio Front-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front)
-
-[Link de repositorio Back-end](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend)
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |fc42c9e| Merge pull request #19 | from SI729-2401-WS53-Grupo-MiCasita/feature-transacction | 24/06/2024|
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/|a05c533|Merge pull request #21| from SI729-2401-WS53-Grupo-MiCasita/feature-property| 24/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend| b233b67| Merge pull request #25 |from SI729-2401-WS53-Grupo-MiCasita/feature-user| 25/06/2024 |
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend|9c01e8e| Merge pull request #26 |from SI729-2401-WS53-Grupo-MiCasita/developer| 15/06/2024|
+|Grupo02-Micasita-Angular-front |https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front| b75203c |Feat |Change port 8080 to port 8070 | 25/06/2024 |
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front |b76cab9| Feat | Reservation connection Database | 25/06/2024|
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front |9a89541 | Merge pull request #44 | from SI729-2401-WS53-Grupo-MiCasita/dev | 25/06/2024|
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| feature/tf-Alexander-Cantoral| b0e90b3 | Sprint 4| |24/06/2024 |
-
-[Link de repositorio testing](https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing)
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing/tree/feature/TF-Alexander-Cantoral| b0e90b3 | Sprint 4| testing |24/06/2024 |
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing | e344bae | Sprint 4 | Merge | pull request #1 | 25/06/2024|
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #2| TF-Jose-Calderon | 25/06/2024| 
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #3| TF-Jeremi-Antonio | 25/06/2024| 
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #4| TF-Alexander-Cantoral | 25/06/2024| 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-En esta sección se adjuntará evidencia de la revisión de lo desarrollado para este sprint:
+En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
 
-[Link del vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Ed_5rOkASMZFvs5p-_CWweoBQJACW-4EbOOjzS4lVN8Ngg?e=l3Txac&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link del vídeo: https://acortar.link/PCTKby
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 En esta sección se adjuntará evidencia del desarrollo para este sprint:
 
+Link de la Documentación web: http://localhost:8080/swagger-ui/index.html#/
+
 Evidencia de los endpoints realizados:
 
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%201.PNG)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%202.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/endpoints.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/endpoints2.PNG)
+
+Se realizaron los endpoints Reservation, Buy, Rent, User, Properties, PropertiesImages y  Voucher.
+Se hizo uso de enums para los endpoints de Reservation, Properties. 
+Para reservation en el atributo de "status": 'PENDING' o 'CONFIRMED' o 'CANCELLED'.
+Para Properties en el atributo de "status": 'Sale' o 'Rent'y "type": 'House' o 'Apartment'
+Además se debe tener en cuenta esto para los atributos de Buy o Rent: dni: MAX 8 y MIN 8 , phoneNumber: MAX 9 y MIN 9
+Y para User:  email: debe tener un arroba , dni: max 8 , phone number 9.
+
+Para que esto funcione en local se debe de crear una base de datos en pgadmin4 con el nombre de "micasita".
+
+Id de los commits relacionados: b233b67, 3aa0a4e, 5b752a0, da28ee4, a05c533, c28340a
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 En esta sección se dará evidencia del deploy de la aplicación web completa:
 
-[Link de la Landing Page para user experience](https://micasita-landingpage.netlify.app/)
-[Link de la Aplicación Web](https://micasita-frontend.web.app/register)
+Landing Page evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Landingpageopen.PNG)
+Link de la Landing Page desplegada: https://micasita-landingpage.netlify.app/ 
+Frontend Evidence:
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20webopen.PNG)
+Link del Frontend desplegado: https://micasita-frontend.web.app
+
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-Para este sprint seguimos usando nuestras ramas para cada miembro y un merge a la rama developer para concretar el código de cada uno 
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab1.PNG)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/collab2.PNG)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/xdddd.PNG)
+En esta sección se presentará los insights de los repositorios donde se avanzó el proyecto.
 
-A su vez, luego de ya tener el avance del código de cada uno en la rama developer se hacía reuniones usando la aplicación discord para el deploy y revisión de detalles.
+En este Sprint Se hizo solamente commits en el frontend y backend de la aplicación web.
 
-También hubo reuniones presenciales luego de clase para coordinar los quehaceres semanales del proyecto.
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20front%20evidence.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back%20evidence.PNG)
+
 
 ## 5.3. Validation Interviews
 
@@ -717,7 +739,7 @@ Preguntas principales:
 
 ### 5.3.2. Recording of Interviews
 
-[Link de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i)
+Link de entrevistas: https://acortar.link/nK1qDF 
 
 ### Entrevista 1
 
@@ -755,20 +777,154 @@ Descripción: Alfredo revisa la página comenzando por la portada y opciones de 
 
 ### 5.3.3. Evaluations according to Heuristics
 
-[Documento de Evaluations according to Heuristics](https://upcedupe-my.sharepoint.com/:w:/g/personal/u20181b152_upc_edu_pe/EZRBrOgd0OtHhvB658LItdIBOJ2AcBFbPDod9CJGgVx1_w?e=wIqfFi)
+UX Heuristics & Principles Evaluation  
 
+Usability – Inclusive Design – Information Architecture  
+
+CARRERA: Ingeniería de Software  
+
+CURSO: Desarrollo de Aplicaciones Open Source  
+
+SECCIÓN: WS53  
+
+PROFESORES: *Juan Antonio Flores Moroco, Jimmy Alexander Armas Aguirre y Angel Augusto Velasquez Nuñez*
+
+AUDITOR :  Grupo 2 
+
+CLIENTE(S): *Maria Delia Martinez Meza, Diego Sebastián Valdivia Colque, Samantha Allison, Balazar Saavedra y Alfredo Medina.*
+
+ 
+
+SITE o APP A EVALUAR: 
+
+Nombre de App: *Mi Casita*
+
+ 
+
+TAREAS A EVALUAR: 
+
+ 
+
+**Registro de Usuario:**
+
+Descripción: El usuario debe poder registrarse en la plataforma usando su correo electrónico y una contraseña. 
+
+Objetivo: Evaluar la facilidad y eficiencia del proceso de registro. 
+
+
+**Inicio de Sesión:**
+
+Descripción: El usuario debe poder iniciar sesión utilizando su correo electrónico y contraseña. 
+
+Objetivo: Verificar la usabilidad y rapidez del inicio de sesión. 
+
+
+**Exploración de Propiedades:**
+
+Descripción: El usuario debe poder navegar y explorar las propiedades disponibles para alquiler o compra. 
+
+Objetivo: Evaluar la navegación y organización de la información. 
+
+**Visualización de Detalles de Propiedad:**
+
+Descripción: El usuario debe poder ver los detalles completos de una propiedad seleccionada. 
+
+Objetivo: Comprobar la claridad y exhaustividad de la información proporcionada. 
+
+**Agregar una Propiedad:**
+
+Descripción: El usuario debe poder agregar una nueva propiedad para alquiler o venta. 
+
+Objetivo: Verificar la usabilidad del proceso de adición de propiedades. 
+
+
+**Reservar una Visita:**
+
+Descripción: El usuario debe poder reservar una cita para visitar una propiedad. 
+
+Objetivo: Evaluar la facilidad y funcionalidad del sistema de reservas. 
+
+**Simulación de Compra/Alquiler:**
+
+Descripción: El usuario debe poder simular el proceso de compra o alquiler de una propiedad. 
+
+Objetivo: Verificar la usabilidad y claridad del proceso de simulación de transacción. 
+
+
+**Cerrar Sesión:**
+
+Descripción: El usuario debe poder cerrar sesión de la plataforma. 
+
+Objetivo: Evaluar la facilidad y seguridad del proceso de cierre de sesión. 
+
+ 
+
+**Escala de severidad:**  
+
+| Nivel  | Descripción |
+|---------|-----------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja, resolverlo de cara a la siguiente reléase. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla resumen:**
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---------|-----------|------|---------|
+| 1 | No se tiene un control del pop up en la Landing Page | 2 | Usability: Libertad y control de usuario |
+| 2 | El botón de signup te hace iniciar sesión de forma repentina | 1 | Usability: Consistencia y estándares |
+| 3 | Falta unión de con backend para poder ver las propiedades añadidas | 1 | Feedback y visibilidad del sistema (en relación con la usabilidad) |
+
+**Descripción de problemas:**
+
+Problema #1:  No se tiene un control del pop up en la Landing Page 
+
+Severidad: 2 
+
+Heurística/Principio violado: Usabilidad: Libertad y control de usuario 
+
+Descripción: Los usuarios no pueden controlar la aparición o el cierre de los pop-ups en la página de inicio. Esto puede causar frustración y una sensación de pérdida de control sobre la navegación. 
+
+Recomendación: Permitir que los usuarios cierren los pop-ups fácilmente y evitar que aparezcan de manera intrusiva o repetitiva sin una acción del usuario. 
+
+Problema #2: El botón de signup te hace iniciar sesión de forma repentina 
+
+Severidad: 1 
+
+Heurística/Principio violado: Usabilidad: Consistencia y estándares 
+
+Descripción: Un botón de "signup" (registrarse) debería llevar a un formulario de registro, pero si en lugar de eso inicia sesión de manera inesperada, se rompe con la expectativa del usuario y la consistencia del diseño. 
+
+Recomendación: Asegurarse de que el botón de "signup" lleve a la página de login o verificación de correo y que cualquier redirección sea clara y predecible. 
+
+Problema #3: Falta unión con backend para poder ver las propiedades añadidas 
+
+Severidad: 1 
+
+Heurística/Principio violado: Feedback y visibilidad del sistema (en relación con la usabilidad) 
+
+Descripción: Si los usuarios no pueden ver las propiedades que han añadido porque no hay conexión con el backend, falta el feedback necesario que informe al usuario de que sus acciones han sido exitosas. 
+
+Recomendación: Implementar la conexión con el backend para que el usuario pueda ver su propiedad agregada a la sección que corresponda. 
 
 ## 5.4. Video About-the-Product
 
-[Video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EduhzE3v9AtHhmaa_crqWTcBpIxM06ta11vHziGI2O2SIw?e=zgPDtq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video about the product-Sprint 3: https://acortar.link/683KXS
+Video about the product-Sprint 4: https://acortar.link/3zHd7U
 
 ## Conclusiones 
 
 En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente entre los tres miembros del equipo. Todos contribuyeron de manera colaborativa, codificando dentro de los límites del contexto de manera satisfactoria.
+
+Video about the team: https://acortar.link/ipCnC6
+
 ## Bibliografía
+
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
 2. Naming Conventions for java (2024) Recuperado de: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Except%20for%20variables%2C%20all%20instance,should%20be%20short%20yet%20meaningful.
+
 ## Anexos
+
 **Enlaces**
 
 </center>
@@ -779,5 +935,3 @@ En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente e
 | Diagramas de clases (Anexo B)   | https://lucid.app/documents/view/c7d290c1-6d5f-4e26-b73e-cfdbba38c57a     |
 | Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/wrl6YNg5OsGyeUKD2zrofTFNGwBj0sOF   |
 | Proyecto Anagular   |  https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front  |
-
-
