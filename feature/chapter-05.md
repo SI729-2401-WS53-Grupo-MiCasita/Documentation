@@ -654,26 +654,31 @@ El objetivo principal es la conexión entre el backend y frontend.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| SpringBoot-backend | dev|c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
-| SpringBoot-backend | dev|c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
-
-Link de repositorio Front-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front
-
-Link de repositorio Back-end: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |c419e0b| Merge pull request #17 | from SI729-2401-WS53-Grupo-MiCasita/feature-transaction |23/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |c28340a| Merge pull request #18 | from SI729-2401-WS53-Grupo-MiCasita/feature-interaction |23/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend |fc42c9e| Merge pull request #19 | from SI729-2401-WS53-Grupo-MiCasita/feature-transacction | 24/06/2024|
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/|a05c533|Merge pull request #21| from SI729-2401-WS53-Grupo-MiCasita/feature-property| 24/06/2024|
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend| b233b67| Merge pull request #25 |from SI729-2401-WS53-Grupo-MiCasita/feature-user| 25/06/2024 |
+| SpringBoot-backend | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend|9c01e8e| Merge pull request #26 |from SI729-2401-WS53-Grupo-MiCasita/developer| 15/06/2024|
+|Grupo02-Micasita-Angular-front |https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front| b75203c |Feat |Change port 8080 to port 8070 | 25/06/2024 |
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front |b76cab9| Feat | Reservation connection Database | 25/06/2024|
+| Grupo02-Micasita-Angular-front | https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-Angular-front |9a89541 | Merge pull request #44 | from SI729-2401-WS53-Grupo-MiCasita/dev | 25/06/2024|
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| feature/tf-Alexander-Cantoral| b0e90b3 | Sprint 4| |24/06/2024 |
-
-Link de repositorio testing: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing/tree/feature/TF-Alexander-Cantoral| b0e90b3 | Sprint 4| testing |24/06/2024 |
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing | e344bae | Sprint 4 | Merge | pull request #1 | 25/06/2024|
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #2| TF-Jose-Calderon | 25/06/2024| 
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #3| TF-Jeremi-Antonio | 25/06/2024| 
+| https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-MiCasita-testing |ebfa12a | Merge pull request #4| TF-Alexander-Cantoral | 25/06/2024| 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
 
-Link del vídeo: " "
+Link del vídeo: https://acortar.link/PCTKby
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -706,17 +711,17 @@ Link de la Landing Page desplegada: https://micasita-landingpage.netlify.app/
 Frontend Evidence:
 ![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20webopen.PNG)
 Link del Frontend desplegado: https://micasita-frontend.web.app
-Backend Evidence:
-![image]()
+
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 En esta sección se presentará los insights de los repositorios donde se avanzó el proyecto.
 
-![image]()
-![image]()
-![image]()
+En este Sprint Se hizo solamente commits en el frontend y backend de la aplicación web.
+
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20front%20evidence.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/Insights%20back%20evidence.PNG)
 
 
 ## 5.3. Validation Interviews
@@ -906,6 +911,7 @@ Recomendación: Implementar la conexión con el backend para que el usuario pued
 ## 5.4. Video About-the-Product
 
 Video about the product-Sprint 3: https://acortar.link/683KXS
+Video about the product-Sprint 4: https://acortar.link/3zHd7U
 
 ## Conclusiones 
 
