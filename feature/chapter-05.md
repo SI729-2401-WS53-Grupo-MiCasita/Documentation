@@ -693,6 +693,8 @@ Para Properties en el atributo de "status": 'Sale' o 'Rent'y "type": 'House' o '
 Además se debe tener en cuenta esto para los atributos de Buy o Rent: dni: MAX 8 y MIN 8 , phoneNumber: MAX 9 y MIN 9
 Y para User:  email: debe tener un arroba , dni: max 8 , phone number 9.
 
+Para que esto funcione en local se debe de crear una base de datos en pgadmin4 con el nombre de "micasita".
+
 Id de los commits relacionados: b233b67, 3aa0a4e, 5b752a0, da28ee4, a05c533, c28340a
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
