@@ -550,7 +550,7 @@ Video explicativo del avance del backend
 
 Link del repositorio de los webservices: https://github.com/SI729-2401-WS53-Grupo-MiCasita/Grupo02-Micasita-SpringBoot-backend
 
-Link de vídeo explicativo del backend:"https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152_upc_edu_pe%2FDocuments%2Fexecution%20evidence%20MiCasita%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E959e7165-6a0c-499c-9c75-c584279ceed8"
+Link de vídeo explicativo del backend:"https://acortar.link/5FCTLg"
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -735,7 +735,7 @@ Preguntas principales:
 
 ### 5.3.2. Recording of Interviews
 
-Link de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EflZPGOPUs1NreRzG__ckL4Bvdqj3Ptkgkct6x0fB654FQ?e=5P185i
+Link de entrevistas: https://acortar.link/nK1qDF 
 
 ### Entrevista 1
 
@@ -911,7 +911,7 @@ Video about the product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u201
 
 En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente entre los tres miembros del equipo. Todos contribuyeron de manera colaborativa, codificando dentro de los límites del contexto de manera satisfactoria.
 
-Video about the team: ""
+Video about the team: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EZIeY6jngL1AgY_RrBMWGO0BY9tXiCc5jbRLmZhA7b9GQA?e=aZkwQT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
 
 ## Bibliografía
 
