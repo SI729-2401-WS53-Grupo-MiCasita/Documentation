@@ -679,10 +679,21 @@ Link del vídeo: " "
 
 En esta sección se adjuntará evidencia del desarrollo para este sprint:
 
+Link de la Documentación web: http://localhost:8080/swagger-ui/index.html#/
+
 Evidencia de los endpoints realizados:
 
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%201.PNG)
-![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/evidence%202.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/endpoints.PNG)
+![image](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/endpoints2.PNG)
+
+Se realizaron los endpoints Reservation, Buy, Rent, User, Properties, PropertiesImages y  Voucher.
+Se hizo uso de enums para los endpoints de Reservation, Properties. 
+Para reservation en el atributo de "status": 'PENDING' o 'CONFIRMED' o 'CANCELLED'.
+Para Properties en el atributo de "status": 'Sale' o 'Rent'y "type": 'House' o 'Apartment'
+Además se debe tener en cuenta esto para los atributos de Buy o Rent: dni: MAX 8 y MIN 8 , phoneNumber: MAX 9 y MIN 9
+Y para User:  email: debe tener un arroba , dni: max 8 , phone number 9.
+
+Id de los commits relacionados: b233b67, 3aa0a4e, 5b752a0, da28ee4, a05c533, c28340a
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 En esta sección se dará evidencia del deploy de la aplicación web completa:
@@ -897,6 +908,8 @@ Video about the product: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u201
 ## Conclusiones 
 
 En el proyecto, la ejecución fue exitosa gracias a la coordinación eficiente entre los tres miembros del equipo. Todos contribuyeron de manera colaborativa, codificando dentro de los límites del contexto de manera satisfactoria.
+
+Video about the team: ""
 
 ## Bibliografía
 
